@@ -10,16 +10,23 @@ if __name__ == "__main__":
                       default="", help="The filename that contains rank change output in csv format")
     parser.add_option("--var_width", dest="var_width", 
                       default="", help="The width of the variables (assuming same for all)")
-    parser.add_option("--output_figure", dest="output_figure", 
-                      default="", help="The filename for hte output graph")
+    parser.add_option("--dataset_name", dest="dataset_name", 
+                      default="", help="The name of the dataset used for output files")
+    parser.add_option("--data_dir", dest="data_dir", 
+                      default="", help="The directory to store the figures.")
     parser.add_option("--select_period", dest="select_period", 
                       default="200", help="The period at which to select 'loop closure steps'")
+    parser.add_option("--plot", dest="plot", action="store_true",
+                      default=False, help="Whether or not to plot figures.")
+    parser.add_option("--save", dest="save", action="store_true",
+                      default=False, help="Whether or not to save figures.")
 
     (options, args) = parser.parse_args()
 
     filename = options.input_file
     var_width = int(options.var_width)
-    out_figure = options.output_figure
+    dataset_name = options.dataset_name
+    data_dir = options.data_dir
     select_period = int(options.select_period)
 
     output = {}
@@ -47,8 +54,11 @@ if __name__ == "__main__":
     plt.legend(["Step", "Loop Closure Size"])
     plt.title("Step vs Loop Closure Size")
 
-    if out_figure != "":
-        plt.savefig(out_figure + ".png")
+    out_figure = data_dir + "/" + dataset_name + "_step_vs_change_rank.png"
+    if options.plot:
+        plt.show()
+    if options.save:
+        plt.savefig(out_figure)
 
     # Select the highest percentage depth every select_period steps
     max_steps = []
@@ -76,7 +86,20 @@ if __name__ == "__main__":
     print(max_depths)
 
     plt.plot(max_steps, max_depths, 'ro', markersize=10, mfc='none')
-    if out_figure != "":
-        plt.savefig(out_figure + "_selected.png")
+
+    out_figure = data_dir + "/" + dataset_name + "_step_vs_change_rank_selected.png"
+
+    if options.plot:
+        plt.show()
+    if options.save:
+        plt.savefig(out_figure)
+
+    selected_filename = data_dir + "/" + dataset_name + "_selected_steps.txt"
+
+    with open(selected_filename, "w") as fout:
+        fout.write(dataset_name + " SELECTED LOOP CLOSURE STEPS:\n")
+        fout.write(f"NUM_STEPS: {len(max_steps)}\n")
+        for step in max_steps:
+            fout.write(f"{step} ")
 
             
