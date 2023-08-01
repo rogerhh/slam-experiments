@@ -20,3 +20,8 @@ The results are stored in `output/sphere_rank_change.out` and `output/w10000_ran
 
 Interpretation
 --------------
+
+Versions
+--------
+
+`gtsam`: `287dc2032 (HEAD -> profile-rank-change, origin/profile-rank-change)`
