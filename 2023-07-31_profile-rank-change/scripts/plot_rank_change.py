@@ -74,7 +74,7 @@ if __name__ == "__main__":
         for i in range(start_i, min(start_i + select_period, len(output["Step"]))):
             affected = output["Total affected keys"][i]
             step = output["Step"][i]
-            percentage_affected = affected / step            
+            percentage_affected = affected / (step + 1)       
             if percentage_affected >= max_percentage_affected:
                 max_percentage_affected = percentage_affected
                 max_step = step
