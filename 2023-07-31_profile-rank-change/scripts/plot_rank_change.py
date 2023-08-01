@@ -53,8 +53,7 @@ if __name__ == "__main__":
     plt.plot(output["Step"], output["Total affected keys"], "r")
     plt.plot(output["Step"], output["Relinearize affected keys"], "g")
     plt.plot(output["Step"], output["New factors affected keys"], "y")
-    plt.plot(output["Step"], output["Depth"], "c:")
-    plt.legend(["Step", "Total affected rank", "Relinearize rank", "New factors rank", "Depth"])
+    plt.legend(["Step", "Total affected rank", "Relinearize rank", "New factors rank"])
     plt.title("Step vs Rank of Affected Matrix")
 
     out_figure = data_dir + "/" + dataset_name + "_step_vs_affected_rank.png"
@@ -63,36 +62,34 @@ if __name__ == "__main__":
     if options.save:
         plt.savefig(out_figure)
 
-    exit()
-
     # Select the highest percentage depth every select_period steps
     max_steps = []
-    max_depths = []
+    max_affecteds = []
     max_is = []
     for start_i in range(0, len(output["Step"]), select_period):
-        max_percentage_depth = 0
+        max_percentage_affected = 0
         max_step = 0
         max_i = 0
-        max_depth = 0
+        max_affected = 0
         for i in range(start_i, min(start_i + select_period, len(output["Step"]))):
-            depth = output["Depth"][i]
+            affected = output["Total affected keys"][i]
             step = output["Step"][i]
-            percentage_depth = depth / step            
-            if percentage_depth >= max_percentage_depth:
-                max_percentage_depth = percentage_depth
+            percentage_affected = affected / step            
+            if percentage_affected >= max_percentage_affected:
+                max_percentage_affected = percentage_affected
                 max_step = step
                 max_i = i
-                max_depth = depth
+                max_affected = affected
         max_steps.append(max_step)
         max_is.append(max_i)
-        max_depths.append(max_depth)
+        max_affecteds.append(max_affected)
 
     print(max_steps)
-    print(max_depths)
+    print(max_affecteds)
 
-    plt.plot(max_steps, max_depths, 'ro', markersize=10, mfc='none')
+    plt.plot(max_steps, max_affecteds, 'ro', markersize=10, mfc='none')
 
-    out_figure = data_dir + "/" + dataset_name + "_step_vs_change_rank_selected.png"
+    out_figure = data_dir + "/" + dataset_name + "_step_vs_affected_rank_selected.png"
 
     if options.plot:
         plt.show()
