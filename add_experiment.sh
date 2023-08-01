@@ -9,10 +9,5 @@ echo "Making experiment directory: ${EXPERIMENT_DIR}"
 
 mkdir -p "$EXPERIMENT_DIR"
 
-touch $EXPERIMENT_DIR/report.md
-mkdir $EXPERIMENT_DIR/scripts
-mkdir $EXPERIMENT_DIR/output
-mkdir $EXPERIMENT_DIR/output/processed
-mkdir $EXPERIMENT_DIR/data
-
+cp -r $SCRIPT_DIR/template/* $EXPERIMENT_DIR
 
