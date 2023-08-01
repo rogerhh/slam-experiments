@@ -1,10 +1,10 @@
-date\_time
-==========
-2023-07-31\_22-39
-
 Experiment name
----------------
+==============
 profile-rank-change
+
+date\_time
+----------
+2023-07-31\_22-39
 
 Description
 -----------
@@ -23,5 +23,4 @@ Interpretation
 
 Versions
 --------
-
 `gtsam`: `287dc2032 (HEAD -> profile-rank-change, origin/profile-rank-change)`
