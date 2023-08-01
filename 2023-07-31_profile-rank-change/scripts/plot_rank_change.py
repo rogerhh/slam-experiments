@@ -50,15 +50,19 @@ if __name__ == "__main__":
     
     figure = plt.figure()
     plt.plot(output["Step"], output["Step"], "b")
-    plt.plot(output["Step"], output["Depth"], "r")
-    plt.legend(["Step", "Loop Closure Size"])
-    plt.title("Step vs Loop Closure Size")
+    plt.plot(output["Step"], output["Total affected keys"], "r")
+    plt.plot(output["Step"], output["Relinearize affected keys"], "g")
+    plt.plot(output["Step"], output["New factors affected keys"], "y")
+    plt.legend(["Step", "Total affected rank", "Relinearize rank", "New factors rank"])
+    plt.title("Step vs Rank of Affected Matrix")
 
-    out_figure = data_dir + "/" + dataset_name + "_step_vs_change_rank.png"
+    out_figure = data_dir + "/" + dataset_name + "_step_vs_affected_rank.png"
     if options.plot:
         plt.show()
     if options.save:
         plt.savefig(out_figure)
+
+    exit()
 
     # Select the highest percentage depth every select_period steps
     max_steps = []
