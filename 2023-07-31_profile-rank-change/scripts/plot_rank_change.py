@@ -54,7 +54,7 @@ if __name__ == "__main__":
     plt.plot(output["Step"], output["Relinearize affected keys"], "g")
     plt.plot(output["Step"], output["New factors affected keys"], "y")
     plt.plot(output["Step"], output["Depth"], "c:")
-    plt.legend(["Step", "Total affected rank", "Relinearize rank", "New factors rank"])
+    plt.legend(["Step", "Total affected rank", "Relinearize rank", "New factors rank", "Depth"])
     plt.title("Step vs Rank of Affected Matrix")
 
     out_figure = data_dir + "/" + dataset_name + "_step_vs_affected_rank.png"
