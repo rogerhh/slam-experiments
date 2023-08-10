@@ -1,0 +1,88 @@
+dataset: w10000
+lc_lookahead: 4
+
+preconditioner_generator, step = 56
+0.0017805577353540473
+preconditioner_generator, step = 57
+0.0017770230053724397
+preconditioner_generator, step = 58
+0.0018412431308918306
+preconditioner_generator, step = 59
+0.0018810919983457068
+preconditioner_generator, step = 60
+0.0019079038155626414
+Matrix size:  (171, 171)
+Update rank:  170
+(657, 171)
+(171, 171)
+Condition num before conditioning:  165.74567491715231
+Condition num after conditioning:  1.214664011896566
+cg_count = 8
+preconditioner_generator, step = 331
+0.0016533927133796768
+preconditioner_generator, step = 332
+0.00165339271337968
+preconditioner_generator, step = 333
+0.0016533927133796794
+preconditioner_generator, step = 334
+0.0016503887086454486
+preconditioner_generator, step = 335
+0.001651112712912911
+Matrix size:  (996, 996)
+Update rank:  593
+(2409, 996)
+(996, 996)
+Condition num before conditioning:  8698.58202839773
+Condition num after conditioning:  5.927175880645352
+cg_count = 13
+preconditioner_generator, step = 417
+0.0016109438236113392
+preconditioner_generator, step = 418
+0.0016108267277967468
+preconditioner_generator, step = 419
+0.001609216805982439
+preconditioner_generator, step = 420
+0.0016116573646459463
+preconditioner_generator, step = 421
+0.0016127165550568227
+Matrix size:  (1254, 1254)
+Update rank:  848
+(3747, 1254)
+(1254, 1254)
+Condition num before conditioning:  9473.56507550218
+Condition num after conditioning:  7.761918109105448
+cg_count = 12
+preconditioner_generator, step = 779
+0.0016833267431647348
+preconditioner_generator, step = 780
+0.0016897981905357761
+preconditioner_generator, step = 781
+0.0016921580020946
+preconditioner_generator, step = 782
+0.0016932052714410564
+preconditioner_generator, step = 783
+0.0016946734396754348
+Matrix size:  (2340, 2340)
+Update rank:  254
+(8052, 2340)
+(2340, 2340)
+Condition num before conditioning:  37367.74840316294
+Condition num after conditioning:  664.7824953869801
+cg_count = 19
+preconditioner_generator, step = 927
+0.0017183707210792088
+preconditioner_generator, step = 928
+0.0017183707210792017
+preconditioner_generator, step = 929
+0.001718569339460615
+preconditioner_generator, step = 930
+0.0017180473929399305
+preconditioner_generator, step = 931
+0.0017175277521331459
+Matrix size:  (2784, 2784)
+Update rank:  773
+(10827, 2784)
+(2784, 2784)
+Condition num before conditioning:  50411.717644171724
+Condition num after conditioning:  1307.4636730694774
+cg_count = 25

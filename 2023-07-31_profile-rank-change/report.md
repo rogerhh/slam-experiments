@@ -23,4 +23,4 @@ Interpretation
 
 Versions
 --------
-`gtsam`: `287dc2032 (HEAD -> profile-rank-change, origin/profile-rank-change)`
+`rogerhh/gtsam`: `287dc2032 (HEAD -> profile-rank-change, origin/profile-rank-change)`

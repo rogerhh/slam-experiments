@@ -1,0 +1,74 @@
+dataset: w10000
+preconditioner type: extdiag
+lc_lookahead: 1
+
+preconditioner_generator, step = 59
+0.0018810922270504655
+preconditioner_generator, step = 60
+0.0019079038166102346
+Old A shape:  (723, 180)
+New A shape:  (750, 183)
+Matrix size:  (183, 183)
+Relin rank:  159
+Observe rank:  27
+(750, 183)
+(183, 183)
+Condition num before conditioning:  171.26210549936843
+Condition num after conditioning:  19.913328397030508
+cg_count = 19
+preconditioner_generator, step = 334
+0.0016503886752698045
+preconditioner_generator, step = 335
+0.0016511127129639918
+Old A shape:  (2421, 1005)
+New A shape:  (2433, 1008)
+Matrix size:  (1008, 1008)
+Relin rank:  470
+Observe rank:  12
+(2433, 1008)
+(1008, 1008)
+Condition num before conditioning:  8410.304139561786
+Condition num after conditioning:  10690.588621610612
+cg_count = 33
+preconditioner_generator, step = 420
+0.0016116572261310742
+preconditioner_generator, step = 421
+0.001612716533881518
+Old A shape:  (3807, 1263)
+New A shape:  (3837, 1266)
+Matrix size:  (1266, 1266)
+Relin rank:  700
+Observe rank:  30
+(3837, 1266)
+(1266, 1266)
+Condition num before conditioning:  9498.191512279625
+Condition num after conditioning:  47501.16614494702
+cg_count = 34
+preconditioner_generator, step = 782
+0.0016932052491266704
+preconditioner_generator, step = 783
+0.0016946734393673297
+Old A shape:  (8127, 2349)
+New A shape:  (8148, 2352)
+Matrix size:  (2352, 2352)
+Relin rank:  185
+Observe rank:  21
+(8148, 2352)
+(2352, 2352)
+Condition num before conditioning:  37765.28408005456
+Condition num after conditioning:  1253574.7498255714
+cg_count = 48
+preconditioner_generator, step = 930
+0.0017180473465220076
+preconditioner_generator, step = 931
+0.0017175277500699774
+Old A shape:  (10848, 2793)
+New A shape:  (10854, 2796)
+Matrix size:  (2796, 2796)
+Relin rank:  678
+Observe rank:  6
+(10854, 2796)
+(2796, 2796)
+Condition num before conditioning:  50715.990551761606
+Condition num after conditioning:  387816.4204592534
+cg_count = 32
