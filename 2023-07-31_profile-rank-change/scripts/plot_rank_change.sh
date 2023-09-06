@@ -11,3 +11,7 @@ DATA_DIR=$EXPERIMENT_DIR/data
 python3 $SCRIPT_DIR/plot_rank_change.py --input_file $OUTPUT_DIR/w10000_rank_change.out --var_width 3 --dataset_name w10000 --data_dir $DATA_DIR --select_period 200 --save
 
 python3 $SCRIPT_DIR/plot_rank_change.py --input_file $OUTPUT_DIR/sphere_rank_change.out --var_width 6 --dataset_name sphere --data_dir $DATA_DIR --select_period 200 --save
+
+python3 $SCRIPT_DIR/plot_rank_change.py --input_file $OUTPUT_DIR/sphere_smallnoise_rank_change.out --var_width 6 --dataset_name sphere_smallnoise --data_dir $DATA_DIR --select_period 200 --save
+
+python3 $SCRIPT_DIR/plot_rank_change.py --input_file $OUTPUT_DIR/garage_rank_change.out --var_width 6 --dataset_name garage --data_dir $DATA_DIR --select_period 200 --save
