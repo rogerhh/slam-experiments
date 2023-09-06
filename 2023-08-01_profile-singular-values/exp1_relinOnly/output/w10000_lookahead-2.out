@@ -1,0 +1,68 @@
+dataset: w10000
+lc_lookahead: 2
+
+preconditioner_generator, step = 58
+0.001841243191270317
+preconditioner_generator, step = 59
+0.0018810919977098977
+preconditioner_generator, step = 60
+0.0019079038156901134
+Matrix size:  (177, 177)
+Update rank:  176
+(699, 177)
+(177, 177)
+Condition num before conditioning:  166.0627185806698
+Condition num after conditioning:  1.168621709983381
+cg_count = 7
+preconditioner_generator, step = 333
+0.0016533927133796358
+preconditioner_generator, step = 334
+0.001650388708645159
+preconditioner_generator, step = 335
+0.0016511127129128908
+Matrix size:  (1002, 1002)
+Update rank:  599
+(2415, 1002)
+(1002, 1002)
+Condition num before conditioning:  8707.098573425317
+Condition num after conditioning:  6.2578762822762695
+cg_count = 13
+preconditioner_generator, step = 419
+0.00160921668218525
+preconditioner_generator, step = 420
+0.001611657386151201
+preconditioner_generator, step = 421
+0.00161271655699855
+Matrix size:  (1260, 1260)
+Update rank:  854
+(3777, 1260)
+(1260, 1260)
+Condition num before conditioning:  9486.540293496633
+Condition num after conditioning:  4.173416187885597
+cg_count = 10
+preconditioner_generator, step = 781
+0.0016921580219623755
+preconditioner_generator, step = 782
+0.0016932052805595003
+preconditioner_generator, step = 783
+0.0016946734485906122
+Matrix size:  (2346, 2346)
+Update rank:  257
+(8106, 2346)
+(2346, 2346)
+Condition num before conditioning:  37571.309740605175
+Condition num after conditioning:  69.12463884890506
+cg_count = 15
+preconditioner_generator, step = 929
+0.0017185693909772838
+preconditioner_generator, step = 930
+0.0017180473937346435
+preconditioner_generator, step = 931
+0.001717527752915457
+Matrix size:  (2790, 2790)
+Update rank:  778
+(10836, 2790)
+(2790, 2790)
+Condition num before conditioning:  50556.769105465144
+Condition num after conditioning:  304.3033842620604
+cg_count = 18

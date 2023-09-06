@@ -1,0 +1,104 @@
+dataset: w10000
+preconditioner type: identity
+lc_lookahead: 4
+
+preconditioner_generator, step = 56
+0.0017805577353540473
+preconditioner_generator, step = 57
+0.0017770230053724397
+preconditioner_generator, step = 58
+0.0018412431308918306
+preconditioner_generator, step = 59
+0.0018810919983457068
+preconditioner_generator, step = 60
+0.0019079038155626414
+Old A shape:  (657, 171)
+New A shape:  (750, 183)
+Matrix size:  (183, 183)
+Relin rank:  171
+Observe rank:  54
+(750, 183)
+(183, 183)
+Condition num before conditioning:  171.26179968814344
+Condition num after conditioning:  69.4962723071203
+cg_count = 39
+preconditioner_generator, step = 331
+0.0016533927133796768
+preconditioner_generator, step = 332
+0.00165339271337968
+preconditioner_generator, step = 333
+0.0016533927133796794
+preconditioner_generator, step = 334
+0.0016503887086454486
+preconditioner_generator, step = 335
+0.001651112712912911
+Old A shape:  (2409, 996)
+New A shape:  (2433, 1008)
+Matrix size:  (1008, 1008)
+Relin rank:  996
+Observe rank:  21
+(2433, 1008)
+(1008, 1008)
+Condition num before conditioning:  8410.304329794886
+Condition num after conditioning:  13564.261616039912
+cg_count = 58
+preconditioner_generator, step = 417
+0.0016109438236113392
+preconditioner_generator, step = 418
+0.0016108267277967468
+preconditioner_generator, step = 419
+0.001609216805982439
+preconditioner_generator, step = 420
+0.0016116573646459463
+preconditioner_generator, step = 421
+0.0016127165550568227
+Old A shape:  (3747, 1254)
+New A shape:  (3837, 1266)
+Matrix size:  (1266, 1266)
+Relin rank:  1254
+Observe rank:  54
+(3837, 1266)
+(1266, 1266)
+Condition num before conditioning:  9498.170785918928
+Condition num after conditioning:  50063.40510487267
+cg_count = 75
+preconditioner_generator, step = 779
+0.0016833267431647348
+preconditioner_generator, step = 780
+0.0016897981905357761
+preconditioner_generator, step = 781
+0.0016921580020946
+preconditioner_generator, step = 782
+0.0016932052714410564
+preconditioner_generator, step = 783
+0.0016946734396754348
+Old A shape:  (8052, 2340)
+New A shape:  (8148, 2352)
+Matrix size:  (2352, 2352)
+Relin rank:  2340
+Observe rank:  57
+(8148, 2352)
+(2352, 2352)
+Condition num before conditioning:  37765.29556496897
+Condition num after conditioning:  1990406.0522095307
+cg_count = 104
+preconditioner_generator, step = 927
+0.0017183707210792088
+preconditioner_generator, step = 928
+0.0017183707210792017
+preconditioner_generator, step = 929
+0.001718569339460615
+preconditioner_generator, step = 930
+0.0017180473929399305
+preconditioner_generator, step = 931
+0.0017175277521331459
+Old A shape:  (10827, 2784)
+New A shape:  (10854, 2796)
+Matrix size:  (2796, 2796)
+Relin rank:  2784
+Observe rank:  21
+(10854, 2796)
+(2796, 2796)
+Condition num before conditioning:  50716.118289689075
+Condition num after conditioning:  945200.9986289243
+cg_count = 99

@@ -1,0 +1,84 @@
+dataset: w10000
+preconditioner type: incompletechol
+lc_lookahead: 2
+
+preconditioner_generator, step = 58
+0.001841243191270317
+preconditioner_generator, step = 59
+0.0018810919977098977
+preconditioner_generator, step = 60
+0.0019079038156901134
+Old A shape:  (699, 177)
+New A shape:  (750, 183)
+Matrix size:  (183, 183)
+Relin rank:  177
+Observe rank:  36
+(750, 183)
+(183, 183)
+Condition num before conditioning:  171.2617906170685
+Condition num after conditioning:  12.590694549880451
+cg_count = 17
+preconditioner_generator, step = 333
+0.0016533927133796358
+preconditioner_generator, step = 334
+0.001650388708645159
+preconditioner_generator, step = 335
+0.0016511127129128908
+Old A shape:  (2415, 1002)
+New A shape:  (2433, 1008)
+Matrix size:  (1008, 1008)
+Relin rank:  1002
+Observe rank:  15
+(2433, 1008)
+(1008, 1008)
+Condition num before conditioning:  8410.304328254182
+Condition num after conditioning:  194.41156645457195
+cg_count = 20
+preconditioner_generator, step = 419
+0.00160921668218525
+preconditioner_generator, step = 420
+0.001611657386151201
+preconditioner_generator, step = 421
+0.00161271655699855
+Old A shape:  (3777, 1260)
+New A shape:  (3837, 1266)
+Matrix size:  (1266, 1266)
+Relin rank:  1260
+Observe rank:  42
+(3837, 1266)
+(1266, 1266)
+Condition num before conditioning:  9498.17161855592
+Condition num after conditioning:  550.4447965587664
+cg_count = 20
+preconditioner_generator, step = 781
+0.0016921580219623755
+preconditioner_generator, step = 782
+0.0016932052805595003
+preconditioner_generator, step = 783
+0.0016946734485906122
+Old A shape:  (8106, 2346)
+New A shape:  (8148, 2352)
+Matrix size:  (2352, 2352)
+Relin rank:  2346
+Observe rank:  30
+(8148, 2352)
+(2352, 2352)
+Condition num before conditioning:  37765.29726430123
+Condition num after conditioning:  2850.9736543085487
+cg_count = 24
+preconditioner_generator, step = 929
+0.0017185693909772838
+preconditioner_generator, step = 930
+0.0017180473937346435
+preconditioner_generator, step = 931
+0.001717527752915457
+Old A shape:  (10836, 2790)
+New A shape:  (10854, 2796)
+Matrix size:  (2796, 2796)
+Relin rank:  2790
+Observe rank:  15
+(10854, 2796)
+(2796, 2796)
+Condition num before conditioning:  50716.119965430225
+Condition num after conditioning:  1665.5684790288224
+cg_count = 22

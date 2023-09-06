@@ -1,0 +1,78 @@
+dataset: w10000
+lc_lookahead: 3
+
+preconditioner_generator, step = 57
+0.0017770231447502365
+preconditioner_generator, step = 58
+0.0018412429749900471
+preconditioner_generator, step = 59
+0.0018810919981054515
+preconditioner_generator, step = 60
+0.0019079038155559152
+Matrix size:  (174, 174)
+Update rank:  173
+(678, 174)
+(174, 174)
+Condition num before conditioning:  166.208577817313
+Condition num after conditioning:  1.2202277516589015
+cg_count = 7
+preconditioner_generator, step = 332
+0.0016533927133795582
+preconditioner_generator, step = 333
+0.001653392713379554
+preconditioner_generator, step = 334
+0.0016503887086452267
+preconditioner_generator, step = 335
+0.0016511127129127943
+Matrix size:  (999, 999)
+Update rank:  596
+(2412, 999)
+(999, 999)
+Condition num before conditioning:  8703.187398556409
+Condition num after conditioning:  6.154785614332322
+cg_count = 13
+preconditioner_generator, step = 418
+0.001610826678967764
+preconditioner_generator, step = 419
+0.0016092167921622578
+preconditioner_generator, step = 420
+0.0016116574001862672
+preconditioner_generator, step = 421
+0.0016127166079205873
+Matrix size:  (1257, 1257)
+Update rank:  849
+(3759, 1257)
+(1257, 1257)
+Condition num before conditioning:  9480.443308570888
+Condition num after conditioning:  8.41767328934557
+cg_count = 12
+preconditioner_generator, step = 780
+0.0016897981993735129
+preconditioner_generator, step = 781
+0.0016921579899916229
+preconditioner_generator, step = 782
+0.0016932052579833787
+preconditioner_generator, step = 783
+0.001694673426268329
+Matrix size:  (2343, 2343)
+Update rank:  257
+(8082, 2343)
+(2343, 2343)
+Condition num before conditioning:  37470.474341325906
+Condition num after conditioning:  291.1325203824744
+cg_count = 17
+preconditioner_generator, step = 928
+0.001718370711856853
+preconditioner_generator, step = 929
+0.001718569330241955
+preconditioner_generator, step = 930
+0.0017180473837315113
+preconditioner_generator, step = 931
+0.0017175277429281465
+Matrix size:  (2787, 2787)
+Update rank:  776
+(10830, 2787)
+(2787, 2787)
+Condition num before conditioning:  50493.525252470165
+Condition num after conditioning:  1355.0304229896099
+cg_count = 26
