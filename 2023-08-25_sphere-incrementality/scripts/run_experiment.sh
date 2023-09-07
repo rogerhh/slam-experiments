@@ -17,6 +17,7 @@ for t in $pu_types
 do
   for l in 1
   do
-    python3 IncrementalSystemSolver3D.py -f sphere2500 --solver iterative --lc_steps_file ${DATA_DIR}/sphere_selected_steps.txt --preconditioner_type "$t" --lc_lookahead $l | tee $OUTPUT_DIR/sphere_bignoise_vertex3_"$t"_lookahead-"$l"_withLinOps.out
+    # python3 IncrementalSystemSolver3D.py -f sphere2500 --solver iterative --lc_steps_file ${DATA_DIR}/sphere_selected_steps.txt --preconditioner_type "$t" --lc_lookahead $l # | tee $OUTPUT_DIR/sphere_bignoise_vertex3_"$t"_lookahead-"$l"_withLinOps.out
+    python3 IncrementalSystemSolver3D.py -f reordered_parking-garage --solver iterative --lc_steps_file ${DATA_DIR}/garage_selected_steps.txt --preconditioner_type "$t" --lc_lookahead $l # | tee $OUTPUT_DIR/garage_"$t"_lookahead-"$l"_withLinOps.out
   done
 done
