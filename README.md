@@ -5,7 +5,7 @@ This is a repository for sharing and storing experimental results of SLAM algori
 report.md
 =========
 
-Contains the date-time, experiment name, description, procedure, results, and interpretation of the experiment. It should also have a specific commit ID for all the repositories used so that the experiment's result is reproducible. It should also have instructions for running the scripts to produce the same results.
+Contains the date-time, experiment name, description, procedure, results, and interpretation of the experiment. It should also have a specific commit ID for all the repositories used so that the experiment's result is reproducible. It should also have instructions for running the scripts to produce the same results. <Versions> should record the output of `git log --oneline -1`
 
 scripts/
 ========
@@ -26,3 +26,4 @@ data/
 =======
 
 Contains the graphs, table, charts obtained by plotting or otherwise organizing the data in an meaningful and understandable way.
+
