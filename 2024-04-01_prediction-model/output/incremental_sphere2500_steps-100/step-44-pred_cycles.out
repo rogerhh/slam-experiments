@@ -1,0 +1,15 @@
+cliques
+12
+node 0	AtA: 2874	cholCost: 0	addCost: 1048	backsolveCost: 6824
+node 1	AtA: 2874	cholCost: 0	addCost: 1048	backsolveCost: 6824
+node 2	AtA: 2874	cholCost: 0	addCost: 1048	backsolveCost: 6824
+node 3	AtA: 2874	cholCost: 0	addCost: 1048	backsolveCost: 6824
+node 4	AtA: 2874	cholCost: 0	addCost: 1048	backsolveCost: 6824
+node 5	AtA: 2874	cholCost: 0	addCost: 1048	backsolveCost: 6824
+node 6	AtA: 2874	cholCost: 0	addCost: 1048	backsolveCost: 6824
+node 7	AtA: 2874	cholCost: 0	addCost: 1048	backsolveCost: 6824
+node 8	AtA: 2874	cholCost: 0	addCost: 1048	backsolveCost: 6824
+node 9	AtA: 2874	cholCost: 2240	addCost: 1048	backsolveCost: 6824
+node 10	AtA: 10366	cholCost: 25368	addCost: 1000	backsolveCost: 10488
+node 11	AtA: -1	cholCost: 0	addCost: -1	backsolveCost: 404
+

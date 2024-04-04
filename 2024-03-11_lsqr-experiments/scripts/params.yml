@@ -1,0 +1,24 @@
+dataset: "w10000"
+is_2D: true
+igo_id: "selcholupdate2"
+mode: "pgo"
+relin_threshold: 0.001
+lc_lookahead: 1
+lc_steps_file: "/home/ubuntu/slam-experiments/2024-03-11_lsqr-experiments/data/w10000_selected_steps.txt"
+default_num_outer_iter: 4
+profile_outer_iter: 1
+max_cg_iter: 3000
+cg_tolerance: 1e-6
+stop_step: 3000
+
+selchol:
+  min_sel_rows: 0
+  percent_rows: 0.05
+
+boundeddiff:
+  row_norm_bound: 0.2
+  max_norm_bound: 0.9
+
+profile_lc_step: 335
+profile_lc_step_only: True
+output_file: "/home/ubuntu/slam-experiments/2024-03-11_lsqr-experiments/output/w10000_identity-931_e-10.yml"

@@ -1,0 +1,454 @@
+step = 20, Chi2 = 0.00642065, graph_error = 0.0288929
+Before relin
+Values with 21 values:
+Value 0: (gtsam::Pose2)
+(-1.35258e-16, -4.87098e-16, 6.82791e-16)
+
+Value 1: (gtsam::Pose2)
+(0.972475, 0.00568797, 0.0453972)
+
+Value 2: (gtsam::Pose2)
+(1.97425, 0.0432665, 0.054218)
+
+Value 3: (gtsam::Pose2)
+(2.94586, 0.082264, 0.0848033)
+
+Value 4: (gtsam::Pose2)
+(3.97966, 0.169291, 0.086113)
+
+Value 5: (gtsam::Pose2)
+(4.97364, 0.182971, 0.0594728)
+
+Value 6: (gtsam::Pose2)
+(4.88119, 1.30113, 1.6603)
+
+Value 7: (gtsam::Pose2)
+(4.84717, 2.33941, 1.64741)
+
+Value 8: (gtsam::Pose2)
+(4.79561, 3.26875, 1.65637)
+
+Value 9: (gtsam::Pose2)
+(4.6708, 4.33616, 1.6767)
+
+Value 10: (gtsam::Pose2)
+(4.61777, 5.34497, 1.65175)
+
+Value 11: (gtsam::Pose2)
+(3.60149, 5.29749, -3.0564)
+
+Value 12: (gtsam::Pose2)
+(2.68302, 5.22653, -3.09459)
+
+Value 13: (gtsam::Pose2)
+(1.7278, 5.11403, -3.10543)
+
+Value 14: (gtsam::Pose2)
+(0.819902, 5.03812, -3.12429)
+
+Value 15: (gtsam::Pose2)
+(-0.104037, 4.97882, -3.11563)
+
+Value 16: (gtsam::Pose2)
+(-0.120132, 3.96925, -1.58367)
+
+Value 17: (gtsam::Pose2)
+(-0.124151, 2.97807, -1.56918)
+
+Value 18: (gtsam::Pose2)
+(-0.17632, 1.96671, -1.59002)
+
+Value 19: (gtsam::Pose2)
+(-0.0265742, 1.01136, -1.56326)
+
+Value 20: (gtsam::Pose2)
+(-0.010222, 0.034147, -1.55063)
+
+Total relin keys: 21 num relin: 10
+2 3 6 8 9 10 11 13 19 20 
+step = 20, Chi2 = 0.00642065, graph_error = 0.0431004
+Total relin keys: 21 num relin: 11
+0 3 4 5 6 7 8 10 11 13 20 
+step = 20, Chi2 = 0.00957786, graph_error = 0.0437481
+Total relin keys: 21 num relin: 7
+0 2 6 9 15 17 20 
+step = 20, Chi2 = 0.00972181, graph_error = 0.0960643
+Total relin keys: 21 num relin: 8
+1 6 7 10 12 15 16 20 
+step = 20, Chi2 = 0.0213476, graph_error = 0.0515287
+Total relin keys: 21 num relin: 9
+5 8 10 11 12 13 14 16 20 
+step = 20, Chi2 = 0.0114508, graph_error = 0.0303195
+Total relin keys: 21 num relin: 16
+0 1 2 3 5 6 7 9 11 12 13 15 16 17 18 19 
+step = 20, Chi2 = 0.00673767, graph_error = 0.0072671
+Total relin keys: 21 num relin: 9
+0 3 6 7 11 13 15 18 19 
+step = 20, Chi2 = 0.00161491, graph_error = 0.00750487
+Total relin keys: 21 num relin: 14
+1 3 5 6 7 8 11 13 14 16 17 18 19 20 
+step = 20, Chi2 = 0.00166775, graph_error = 0.00745306
+Total relin keys: 21 num relin: 13
+2 3 4 6 7 8 10 11 12 13 14 17 18 
+step = 20, Chi2 = 0.00165624, graph_error = 0.00721428
+Total relin keys: 21 num relin: 11
+1 2 3 6 8 10 11 12 18 19 20 
+step = 20, Chi2 = 0.00160317, graph_error = 0.00721414
+Total relin keys: 21 num relin: 17
+0 1 2 3 4 5 6 9 11 12 13 14 15 16 17 18 20 
+step = 20, Chi2 = 0.00160314, graph_error = 0.00715723
+Total relin keys: 21 num relin: 8
+1 2 7 8 11 13 14 19 
+step = 20, Chi2 = 0.0015905, graph_error = 0.00715725
+Total relin keys: 21 num relin: 6
+0 1 4 7 19 20 
+step = 20, Chi2 = 0.0015905, graph_error = 0.00715725
+Total relin keys: 21 num relin: 13
+0 2 5 7 8 9 11 13 14 15 16 18 19 
+step = 20, Chi2 = 0.0015905, graph_error = 0.00715722
+Total relin keys: 21 num relin: 12
+2 3 6 7 9 11 12 13 14 16 17 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715722
+Total relin keys: 21 num relin: 10
+0 1 4 7 9 13 14 16 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715722
+Total relin keys: 21 num relin: 6
+1 6 13 14 18 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715722
+Total relin keys: 21 num relin: 13
+0 1 2 4 5 8 10 11 14 15 17 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+2 4 5 9 10 11 12 13 16 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+1 4 6 9 10 11 12 13 16 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 15
+0 1 2 3 6 11 12 13 14 15 16 17 18 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+2 4 6 8 11 12 13 14 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+0 2 4 7 8 9 10 11 12 15 16 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+1 2 3 7 9 10 12 13 14 16 17 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+0 1 2 4 7 8 9 13 14 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+3 4 7 9 11 12 14 16 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+1 2 4 5 7 11 12 17 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 7
+4 5 10 11 13 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 14
+1 2 5 8 9 10 11 12 13 14 15 16 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+0 1 4 6 7 10 13 14 18 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+1 3 6 9 10 11 12 13 16 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+1 6 7 8 10 11 15 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 13
+0 3 4 5 7 9 10 11 12 13 14 17 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+3 6 7 9 11 17 18 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+0 1 3 4 7 10 11 16 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+1 3 7 9 10 11 13 14 16 17 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+1 4 7 8 9 10 11 13 17 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+4 5 6 9 11 12 13 14 15 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 13
+0 3 6 9 10 11 12 13 14 15 17 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 8
+6 7 8 14 15 16 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+1 4 7 11 13 14 16 17 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 6
+0 6 7 9 14 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 14
+0 3 5 7 8 9 10 11 13 14 15 17 18 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+1 2 3 7 8 11 13 14 18 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 5
+2 3 10 17 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+2 5 7 9 10 11 17 18 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 8
+0 4 8 9 12 13 14 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 6
+1 3 4 14 16 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+0 3 5 8 9 13 14 16 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+1 3 5 6 8 9 12 13 15 16 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 8
+0 7 8 10 11 12 14 17 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 8
+1 6 8 10 12 16 17 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+1 6 8 9 10 11 15 16 18 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+1 6 7 10 12 13 16 17 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+0 1 3 10 11 12 13 16 17 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+2 4 6 8 9 10 12 13 15 16 18 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 7
+2 6 8 9 13 15 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 13
+0 1 2 3 5 8 9 11 12 13 14 16 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+2 4 5 6 7 8 12 13 14 16 17 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 13
+1 2 3 7 8 9 12 13 14 15 16 18 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+1 5 8 10 11 13 14 16 18 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+2 3 5 6 8 11 12 15 16 17 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 7
+6 10 11 13 16 17 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 13
+0 1 3 4 8 9 10 12 13 16 18 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+0 1 2 3 7 9 10 11 12 13 17 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+0 4 5 6 7 11 12 13 14 16 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+0 1 2 3 6 7 11 17 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+0 2 4 5 6 10 11 13 15 16 17 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+1 3 4 5 6 8 9 11 13 15 16 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 6
+2 4 9 12 16 17 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+1 2 3 4 7 9 10 11 14 17 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+0 1 5 8 9 11 13 14 15 17 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+0 5 7 9 10 11 12 13 16 17 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 13
+1 2 3 4 5 6 8 9 11 14 16 17 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+1 2 3 4 7 8 9 13 14 15 16 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+1 2 3 7 12 13 16 17 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+1 3 10 11 13 14 15 17 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 8
+0 6 7 9 10 11 17 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+3 6 9 11 12 13 14 16 17 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 13
+0 1 2 6 9 12 14 15 16 17 18 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+0 1 5 6 8 9 10 14 16 17 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+0 3 7 11 12 14 15 17 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 6
+7 16 17 18 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+1 2 6 7 8 9 10 12 17 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+1 2 3 4 5 6 9 12 13 15 17 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 13
+0 2 3 4 6 7 8 11 12 15 17 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+0 2 3 7 8 11 12 13 15 17 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+0 3 5 6 11 12 14 15 16 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 12
+0 2 3 6 8 11 13 14 15 17 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 13
+0 2 6 8 9 11 12 13 14 15 16 18 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+0 4 5 6 9 13 14 16 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+0 2 4 5 7 8 9 11 15 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+0 1 5 6 9 11 13 14 15 16 18 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 9
+2 6 10 12 15 16 17 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 11
+0 1 2 3 4 7 12 14 16 18 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+0 1 2 3 5 7 8 9 14 15 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+0 1 4 9 10 12 14 15 16 19 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+2 3 4 5 6 8 11 13 14 15 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 8
+2 4 6 7 10 12 16 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Total relin keys: 21 num relin: 10
+0 4 5 6 10 12 15 17 19 20 
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Nonlinear optimization exceed max iterations: 100 >= 100, chi2 = 0.00159049
+After relin
+Values with 21 values:
+Value 0: (gtsam::Pose2)
+(1.70782e-17, 4.53221e-17, 5.02982e-17)
+
+Value 1: (gtsam::Pose2)
+(0.971233, 0.00630954, 0.0446485)
+
+Value 2: (gtsam::Pose2)
+(1.97473, 0.0404156, 0.0508336)
+
+Value 3: (gtsam::Pose2)
+(2.94813, 0.073608, 0.0789203)
+
+Value 4: (gtsam::Pose2)
+(3.98402, 0.151996, 0.077871)
+
+Value 5: (gtsam::Pose2)
+(4.97898, 0.155247, 0.0490975)
+
+Value 6: (gtsam::Pose2)
+(4.90241, 1.27199, 1.64793)
+
+Value 7: (gtsam::Pose2)
+(4.88408, 2.30636, 1.63429)
+
+Value 8: (gtsam::Pose2)
+(4.84698, 3.23009, 1.64349)
+
+Value 9: (gtsam::Pose2)
+(4.73873, 4.28849, 1.66477)
+
+Value 10: (gtsam::Pose2)
+(4.69994, 5.28415, 1.64141)
+
+Value 11: (gtsam::Pose2)
+(3.70312, 5.24814, -3.06471)
+
+Value 12: (gtsam::Pose2)
+(2.80533, 5.18731, -3.10111)
+
+Value 13: (gtsam::Pose2)
+(1.87359, 5.08548, -3.11038)
+
+Value 14: (gtsam::Pose2)
+(0.98946, 5.01813, -3.12788)
+
+Value 15: (gtsam::Pose2)
+(0.0897607, 4.96601, -3.11808)
+
+Value 16: (gtsam::Pose2)
+(0.0706768, 3.98036, -1.58518)
+
+Value 17: (gtsam::Pose2)
+(0.0645349, 3.01124, -1.56989)
+
+Value 18: (gtsam::Pose2)
+(0.0120463, 2.02119, -1.59013)
+
+Value 19: (gtsam::Pose2)
+(-0.027074, 1.01067, -1.56302)
+
+Value 20: (gtsam::Pose2)
+(-0.00923648, 0.0336683, -1.55013)
+
+min_chi2 = 0.00159049
+final_chi2 = 0.00159049, final_error = 0.00715721
+step = 0, update_time = 0 us, calc_time = 0 us
+step = 1, update_time = 225 us, calc_time = 0 us
+step = 2, update_time = 48 us, calc_time = 0 us
+step = 3, update_time = 69 us, calc_time = 0 us
+step = 4, update_time = 48 us, calc_time = 0 us
+step = 5, update_time = 45 us, calc_time = 0 us
+step = 6, update_time = 88 us, calc_time = 0 us
+step = 7, update_time = 71 us, calc_time = 0 us
+step = 8, update_time = 82 us, calc_time = 0 us
+step = 9, update_time = 54 us, calc_time = 0 us
+step = 10, update_time = 54 us, calc_time = 0 us
+step = 11, update_time = 93 us, calc_time = 0 us
+step = 12, update_time = 49 us, calc_time = 0 us
+step = 13, update_time = 31 us, calc_time = 0 us
+step = 14, update_time = 42 us, calc_time = 0 us
+step = 15, update_time = 39 us, calc_time = 0 us
+step = 16, update_time = 41 us, calc_time = 0 us
+step = 17, update_time = 48 us, calc_time = 0 us
+step = 18, update_time = 131 us, calc_time = 0 us
+Total: 0.00 seconds

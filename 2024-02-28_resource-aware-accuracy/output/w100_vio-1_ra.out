@@ -1,0 +1,938 @@
+Incremental optimization
+Loading w100-noisy
+Parameters: K = 1, epsilon = 0, max_optimization_iter = 10, opt_stop_cond = 0, relinearize_skip = 1, relin_thresh = 0, relin_tree_depth = 2147483647, vio_relin_keys = 1, max_relin_keys = 3, num_vio_step = 19, print_frequency = 100
+measurements.size() = 271
+values.size() = 100 Playing forward time steps...
+Total relin keys: 0 num relin: 0
+Relin keys: 
+Total relin keys: 3 num relin: 1
+Relin keys: 2 
+Total relin keys: 4 num relin: 1
+Relin keys: 2 
+Total relin keys: 5 num relin: 1
+Relin keys: 2 
+Total relin keys: 6 num relin: 1
+Relin keys: 5 
+Total relin keys: 7 num relin: 1
+Relin keys: 6 
+Total relin keys: 8 num relin: 1
+Relin keys: 7 
+Total relin keys: 9 num relin: 1
+Relin keys: 8 
+Total relin keys: 10 num relin: 1
+Relin keys: 9 
+Total relin keys: 11 num relin: 1
+Relin keys: 10 
+Total relin keys: 12 num relin: 1
+Relin keys: 11 
+Total relin keys: 13 num relin: 1
+Relin keys: 12 
+Total relin keys: 14 num relin: 1
+Relin keys: 7 
+Total relin keys: 15 num relin: 1
+Relin keys: 14 
+Total relin keys: 16 num relin: 1
+Relin keys: 15 
+Total relin keys: 17 num relin: 1
+Relin keys: 7 
+Total relin keys: 18 num relin: 1
+Relin keys: 7 
+Total relin keys: 19 num relin: 1
+Relin keys: 7 
+step = 19, Chi2 = 0.00318188, graph_error = 0.00477281
+Values with 20 values:
+Value 0: (gtsam::Pose2)
+(1.56555e-16, -9.3921e-16, -4.30246e-16)
+
+Value 1: (gtsam::Pose2)
+(1.00072, 0.00564071, 0.0408956)
+
+Value 2: (gtsam::Pose2)
+(2.00523, 0.0315033, 0.0427743)
+
+Value 3: (gtsam::Pose2)
+(2.97972, 0.0526736, 0.0667261)
+
+Value 4: (gtsam::Pose2)
+(4.01778, 0.114199, 0.0617158)
+
+Value 5: (gtsam::Pose2)
+(5.01448, 0.0975474, 0.0292223)
+
+Value 6: (gtsam::Pose2)
+(4.96418, 1.2193, 1.62452)
+
+Value 7: (gtsam::Pose2)
+(4.97245, 2.25975, 1.60866)
+
+Value 8: (gtsam::Pose2)
+(4.95939, 3.19231, 1.61703)
+
+Value 9: (gtsam::Pose2)
+(4.87664, 4.26615, 1.63887)
+
+Value 10: (gtsam::Pose2)
+(4.8597, 5.27826, 1.61779)
+
+Value 11: (gtsam::Pose2)
+(3.84329, 5.25852, -3.08427)
+
+Value 12: (gtsam::Pose2)
+(2.92532, 5.20789, -3.11713)
+
+Value 13: (gtsam::Pose2)
+(1.97099, 5.11248, -3.12344)
+
+Value 14: (gtsam::Pose2)
+(1.06555, 5.04974, -3.1387)
+
+Value 15: (gtsam::Pose2)
+(0.145009, 5.00141, -3.12727)
+
+Value 16: (gtsam::Pose2)
+(0.121163, 3.99397, -1.59334)
+
+Value 17: (gtsam::Pose2)
+(0.109312, 3.00465, -1.57913)
+
+Value 18: (gtsam::Pose2)
+(0.0467624, 1.99528, -1.60246)
+
+Value 19: (gtsam::Pose2)
+(-0.00773589, 0.965641, -1.58047)
+
+Total relin keys: 20 num relin: 3
+Relin keys: 17 18 19 
+step = 20, Chi2 = 0.0183098, graph_error = 0.0274646
+Values with 21 values:
+Value 0: (gtsam::Pose2)
+(1.16384e-17, -8.05599e-17, -3.09134e-16)
+
+Value 1: (gtsam::Pose2)
+(0.998458, 0.00904286, 0.0448342)
+
+Value 2: (gtsam::Pose2)
+(2.00052, 0.0428194, 0.0511945)
+
+Value 3: (gtsam::Pose2)
+(2.97238, 0.0764871, 0.0801182)
+
+Value 4: (gtsam::Pose2)
+(4.00658, 0.156956, 0.0805418)
+
+Value 5: (gtsam::Pose2)
+(5.00031, 0.164248, 0.0538442)
+
+Value 6: (gtsam::Pose2)
+(4.91365, 1.28111, 1.65541)
+
+Value 7: (gtsam::Pose2)
+(4.88429, 2.31742, 1.64322)
+
+Value 8: (gtsam::Pose2)
+(4.83643, 3.24455, 1.65288)
+
+Value 9: (gtsam::Pose2)
+(4.71542, 4.3092, 1.67387)
+
+Value 10: (gtsam::Pose2)
+(4.66545, 5.31466, 1.64946)
+
+Value 11: (gtsam::Pose2)
+(3.6525, 5.26904, -3.05823)
+
+Value 12: (gtsam::Pose2)
+(2.73718, 5.20019, -3.09675)
+
+Value 13: (gtsam::Pose2)
+(1.78498, 5.09107, -3.10864)
+
+Value 14: (gtsam::Pose2)
+(0.879698, 5.01979, -3.12926)
+
+Value 15: (gtsam::Pose2)
+(-0.0420915, 4.96728, -3.12307)
+
+Value 16: (gtsam::Pose2)
+(-0.0691369, 3.95913, -1.59429)
+
+Value 17: (gtsam::Pose2)
+(0.127977, 2.96766, -1.5829)
+
+Value 18: (gtsam::Pose2)
+(0.0561794, 1.978, -1.60808)
+
+Value 19: (gtsam::Pose2)
+(-0.0061242, 0.967844, -1.58441)
+
+Value 20: (gtsam::Pose2)
+(-0.036156, -0.0527599, -1.59628)
+
+Total relin keys: 21 num relin: 3
+Relin keys: 14 15 16 
+step = 21, Chi2 = 0.0100305, graph_error = 0.0150458
+Values with 22 values:
+Value 0: (gtsam::Pose2)
+(5.59319e-17, 5.3955e-17, -4.96641e-16)
+
+Value 1: (gtsam::Pose2)
+(0.998912, 0.00858834, 0.0442751)
+
+Value 2: (gtsam::Pose2)
+(2.00145, 0.0412408, 0.0499702)
+
+Value 3: (gtsam::Pose2)
+(2.97383, 0.0730813, 0.0781333)
+
+Value 4: (gtsam::Pose2)
+(4.00872, 0.150721, 0.0777065)
+
+Value 5: (gtsam::Pose2)
+(5.00301, 0.154384, 0.0500888)
+
+Value 6: (gtsam::Pose2)
+(4.92206, 1.27202, 1.65064)
+
+Value 7: (gtsam::Pose2)
+(4.89855, 2.30899, 1.63797)
+
+Value 8: (gtsam::Pose2)
+(4.85592, 3.23694, 1.64761)
+
+Value 9: (gtsam::Pose2)
+(4.74036, 4.3029, 1.669)
+
+Value 10: (gtsam::Pose2)
+(4.69469, 5.30923, 1.64551)
+
+Value 11: (gtsam::Pose2)
+(3.68163, 5.26622, -3.06082)
+
+Value 12: (gtsam::Pose2)
+(2.76648, 5.19853, -3.09797)
+
+Value 13: (gtsam::Pose2)
+(1.81477, 5.0894, -3.1085)
+
+Value 14: (gtsam::Pose2)
+(1.07618, 4.97087, -3.12781)
+
+Value 15: (gtsam::Pose2)
+(0.17523, 4.92235, -3.12268)
+
+Value 16: (gtsam::Pose2)
+(0.145694, 3.93634, -1.5948)
+
+Value 17: (gtsam::Pose2)
+(0.125278, 2.96738, -1.58348)
+
+Value 18: (gtsam::Pose2)
+(0.0541513, 1.97781, -1.60786)
+
+Value 19: (gtsam::Pose2)
+(-0.00712032, 0.967735, -1.58385)
+
+Value 20: (gtsam::Pose2)
+(-0.0365814, -0.0528832, -1.59572)
+
+Value 21: (gtsam::Pose2)
+(-0.0239423, -1.0479, -1.61072)
+
+Total relin keys: 22 num relin: 3
+Relin keys: 10 11 13 
+step = 22, Chi2 = 0.00928965, graph_error = 0.0139345
+Values with 23 values:
+Value 0: (gtsam::Pose2)
+(-8.65846e-17, 2.04194e-16, 4.94551e-16)
+
+Value 1: (gtsam::Pose2)
+(0.999132, 0.0107748, 0.0457833)
+
+Value 2: (gtsam::Pose2)
+(2.00184, 0.0464513, 0.0523074)
+
+Value 3: (gtsam::Pose2)
+(2.97436, 0.0813933, 0.0806229)
+
+Value 4: (gtsam::Pose2)
+(4.0093, 0.161767, 0.0796933)
+
+Value 5: (gtsam::Pose2)
+(5.00379, 0.166904, 0.0508886)
+
+Value 6: (gtsam::Pose2)
+(4.92422, 1.28537, 1.64959)
+
+Value 7: (gtsam::Pose2)
+(4.90355, 2.32328, 1.63539)
+
+Value 8: (gtsam::Pose2)
+(4.8646, 3.25244, 1.64379)
+
+Value 9: (gtsam::Pose2)
+(4.75415, 4.32025, 1.66424)
+
+Value 10: (gtsam::Pose2)
+(4.73619, 5.26028, 1.64018)
+
+Value 11: (gtsam::Pose2)
+(3.73829, 5.23006, -3.06989)
+
+Value 12: (gtsam::Pose2)
+(2.80407, 5.18315, -3.11002)
+
+Value 13: (gtsam::Pose2)
+(1.98088, 5.01296, -3.11962)
+
+Value 14: (gtsam::Pose2)
+(1.09509, 4.95761, -3.14029)
+
+Value 15: (gtsam::Pose2)
+(0.193807, 4.91944, -3.13317)
+
+Value 16: (gtsam::Pose2)
+(0.15653, 3.93432, -1.60269)
+
+Value 17: (gtsam::Pose2)
+(0.131089, 2.96506, -1.58897)
+
+Value 18: (gtsam::Pose2)
+(0.0567328, 1.97639, -1.61127)
+
+Value 19: (gtsam::Pose2)
+(-0.00587785, 0.967068, -1.58536)
+
+Value 20: (gtsam::Pose2)
+(-0.0368784, -0.0535111, -1.59723)
+
+Value 21: (gtsam::Pose2)
+(-0.0257366, -1.04854, -1.61223)
+
+Value 22: (gtsam::Pose2)
+(-0.0692946, -2.08356, -1.63177)
+
+Total relin keys: 23 num relin: 3
+Relin keys: 8 9 12 
+step = 23, Chi2 = 0.00179496, graph_error = 0.00269244
+Values with 24 values:
+Value 0: (gtsam::Pose2)
+(4.59882e-17, -2.71208e-17, -6.59007e-16)
+
+Value 1: (gtsam::Pose2)
+(0.999987, 0.00528396, 0.0413604)
+
+Value 2: (gtsam::Pose2)
+(2.00372, 0.0320845, 0.0445277)
+
+Value 3: (gtsam::Pose2)
+(2.97738, 0.0561811, 0.0705772)
+
+Value 4: (gtsam::Pose2)
+(4.01413, 0.123847, 0.0684449)
+
+Value 5: (gtsam::Pose2)
+(5.00981, 0.116709, 0.0396174)
+
+Value 6: (gtsam::Pose2)
+(4.94237, 1.23554, 1.63938)
+
+Value 7: (gtsam::Pose2)
+(4.9311, 2.27326, 1.62705)
+
+Value 8: (gtsam::Pose2)
+(4.90584, 3.18033, 1.63812)
+
+Value 9: (gtsam::Pose2)
+(4.80246, 4.23829, 1.66051)
+
+Value 10: (gtsam::Pose2)
+(4.76672, 5.23355, 1.63825)
+
+Value 11: (gtsam::Pose2)
+(3.76983, 5.19892, -3.0666)
+
+Value 12: (gtsam::Pose2)
+(2.87137, 5.13801, -3.10262)
+
+Value 13: (gtsam::Pose2)
+(1.93946, 5.03742, -3.11252)
+
+Value 14: (gtsam::Pose2)
+(1.05517, 4.97254, -3.13124)
+
+Value 15: (gtsam::Pose2)
+(0.155279, 4.92414, -3.12324)
+
+Value 16: (gtsam::Pose2)
+(0.128748, 3.93769, -1.59289)
+
+Value 17: (gtsam::Pose2)
+(0.112527, 2.96892, -1.58023)
+
+Value 18: (gtsam::Pose2)
+(0.046166, 1.97873, -1.60422)
+
+Value 19: (gtsam::Pose2)
+(-0.0110197, 0.968104, -1.58094)
+
+Value 20: (gtsam::Pose2)
+(-0.0375058, -0.0525908, -1.59281)
+
+Value 21: (gtsam::Pose2)
+(-0.0219733, -1.04758, -1.60781)
+
+Value 22: (gtsam::Pose2)
+(-0.0609528, -2.08278, -1.62735)
+
+Value 23: (gtsam::Pose2)
+(-0.158944, -3.00384, -1.59771)
+
+Total relin keys: 24 num relin: 3
+Relin keys: 14 15 16 
+step = 24, Chi2 = 0.00179504, graph_error = 0.00269257
+Values with 25 values:
+Value 0: (gtsam::Pose2)
+(-8.12083e-17, -1.12165e-17, -1.90206e-17)
+
+Value 1: (gtsam::Pose2)
+(1.00006, 0.00562078, 0.0415945)
+
+Value 2: (gtsam::Pose2)
+(2.00386, 0.0328904, 0.0448926)
+
+Value 3: (gtsam::Pose2)
+(2.97757, 0.0574733, 0.0709712)
+
+Value 4: (gtsam::Pose2)
+(4.01437, 0.125579, 0.0687697)
+
+Value 5: (gtsam::Pose2)
+(5.01011, 0.118697, 0.0397724)
+
+Value 6: (gtsam::Pose2)
+(4.94287, 1.23765, 1.63926)
+
+Value 7: (gtsam::Pose2)
+(4.93197, 2.2755, 1.62676)
+
+Value 8: (gtsam::Pose2)
+(4.90716, 3.18264, 1.63773)
+
+Value 9: (gtsam::Pose2)
+(4.8043, 4.24074, 1.66009)
+
+Value 10: (gtsam::Pose2)
+(4.769, 5.23613, 1.63788)
+
+Value 11: (gtsam::Pose2)
+(3.77217, 5.20185, -3.06685)
+
+Value 12: (gtsam::Pose2)
+(2.87378, 5.14105, -3.10264)
+
+Value 13: (gtsam::Pose2)
+(1.94197, 5.04027, -3.11222)
+
+Value 14: (gtsam::Pose2)
+(1.05738, 4.97327, -3.13054)
+
+Value 15: (gtsam::Pose2)
+(0.157557, 4.92478, -3.12307)
+
+Value 16: (gtsam::Pose2)
+(0.130592, 3.93844, -1.5933)
+
+Value 17: (gtsam::Pose2)
+(0.113391, 2.96856, -1.58127)
+
+Value 18: (gtsam::Pose2)
+(0.046491, 1.97851, -1.60482)
+
+Value 19: (gtsam::Pose2)
+(-0.0108647, 0.968002, -1.58117)
+
+Value 20: (gtsam::Pose2)
+(-0.0375896, -0.0526858, -1.59304)
+
+Value 21: (gtsam::Pose2)
+(-0.0222895, -1.04768, -1.60804)
+
+Value 22: (gtsam::Pose2)
+(-0.0615112, -2.08287, -1.62758)
+
+Value 23: (gtsam::Pose2)
+(-0.159718, -3.00391, -1.59795)
+
+Value 24: (gtsam::Pose2)
+(-0.0808536, -4.02394, -1.60695)
+
+Total relin keys: 25 num relin: 3
+Relin keys: 7 11 13 
+step = 25, Chi2 = 0.00170992, graph_error = 0.00256489
+Values with 26 values:
+Value 0: (gtsam::Pose2)
+(9.13117e-18, 6.18179e-17, 2.32415e-16)
+
+Value 1: (gtsam::Pose2)
+(1.00014, 0.00527145, 0.0413178)
+
+Value 2: (gtsam::Pose2)
+(2.00403, 0.0319858, 0.0444118)
+
+Value 3: (gtsam::Pose2)
+(2.97785, 0.0559022, 0.0703611)
+
+Value 4: (gtsam::Pose2)
+(4.01479, 0.123245, 0.0681032)
+
+Value 5: (gtsam::Pose2)
+(5.01063, 0.115654, 0.0391319)
+
+Value 6: (gtsam::Pose2)
+(4.94407, 1.23461, 1.63872)
+
+Value 7: (gtsam::Pose2)
+(4.93326, 2.26092, 1.62641)
+
+Value 8: (gtsam::Pose2)
+(4.90396, 3.1847, 1.63664)
+
+Value 9: (gtsam::Pose2)
+(4.80197, 4.24281, 1.65935)
+
+Value 10: (gtsam::Pose2)
+(4.76705, 5.23815, 1.63758)
+
+Value 11: (gtsam::Pose2)
+(3.76832, 5.20091, -3.06664)
+
+Value 12: (gtsam::Pose2)
+(2.87115, 5.14154, -3.10255)
+
+Value 13: (gtsam::Pose2)
+(1.93931, 5.03986, -3.11178)
+
+Value 14: (gtsam::Pose2)
+(1.05522, 4.97394, -3.13056)
+
+Value 15: (gtsam::Pose2)
+(0.155494, 4.92519, -3.12288)
+
+Value 16: (gtsam::Pose2)
+(0.128946, 3.93877, -1.59296)
+
+Value 17: (gtsam::Pose2)
+(0.112202, 2.96882, -1.58087)
+
+Value 18: (gtsam::Pose2)
+(0.0457718, 1.97867, -1.60444)
+
+Value 19: (gtsam::Pose2)
+(-0.0112155, 0.968073, -1.58089)
+
+Value 20: (gtsam::Pose2)
+(-0.0376581, -0.0526224, -1.59277)
+
+Value 21: (gtsam::Pose2)
+(-0.0220833, -1.04761, -1.60777)
+
+Value 22: (gtsam::Pose2)
+(-0.0610186, -2.08282, -1.62731)
+
+Value 23: (gtsam::Pose2)
+(-0.15897, -3.00388, -1.59767)
+
+Value 24: (gtsam::Pose2)
+(-0.0798242, -4.02389, -1.60667)
+
+Value 25: (gtsam::Pose2)
+(-0.209166, -5.1137, -1.63286)
+
+Total relin keys: 26 num relin: 3
+Relin keys: 6 9 10 
+step = 26, Chi2 = 0.00169046, graph_error = 0.00253569
+Values with 27 values:
+Value 0: (gtsam::Pose2)
+(2.32495e-18, 2.04478e-17, -1.39202e-17)
+
+Value 1: (gtsam::Pose2)
+(1.00016, 0.00502948, 0.0411519)
+
+Value 2: (gtsam::Pose2)
+(2.00407, 0.031411, 0.0441559)
+
+Value 3: (gtsam::Pose2)
+(2.97791, 0.0549894, 0.070092)
+
+Value 4: (gtsam::Pose2)
+(4.01488, 0.122041, 0.0678953)
+
+Value 5: (gtsam::Pose2)
+(5.01074, 0.114308, 0.0390653)
+
+Value 6: (gtsam::Pose2)
+(4.94224, 1.23023, 1.63888)
+
+Value 7: (gtsam::Pose2)
+(4.93251, 2.26373, 1.62631)
+
+Value 8: (gtsam::Pose2)
+(4.90308, 3.18743, 1.6368)
+
+Value 9: (gtsam::Pose2)
+(4.79835, 4.2441, 1.65976)
+
+Value 10: (gtsam::Pose2)
+(4.76322, 5.23887, 1.63794)
+
+Value 11: (gtsam::Pose2)
+(3.76652, 5.20352, -3.06645)
+
+Value 12: (gtsam::Pose2)
+(2.86938, 5.14369, -3.10216)
+
+Value 13: (gtsam::Pose2)
+(1.93763, 5.04148, -3.11125)
+
+Value 14: (gtsam::Pose2)
+(1.05359, 4.97496, -3.12997)
+
+Value 15: (gtsam::Pose2)
+(0.153909, 4.92562, -3.1223)
+
+Value 16: (gtsam::Pose2)
+(0.127872, 3.93911, -1.59246)
+
+Value 17: (gtsam::Pose2)
+(0.111524, 2.96907, -1.58046)
+
+Value 18: (gtsam::Pose2)
+(0.0454093, 1.97883, -1.60414)
+
+Value 19: (gtsam::Pose2)
+(-0.0113914, 0.968148, -1.58073)
+
+Value 20: (gtsam::Pose2)
+(-0.0376646, -0.0525519, -1.5926)
+
+Value 21: (gtsam::Pose2)
+(-0.0219251, -1.04754, -1.6076)
+
+Value 22: (gtsam::Pose2)
+(-0.0606887, -2.08275, -1.62714)
+
+Value 23: (gtsam::Pose2)
+(-0.158488, -3.00383, -1.5975)
+
+Value 24: (gtsam::Pose2)
+(-0.0791721, -4.02383, -1.6065)
+
+Value 25: (gtsam::Pose2)
+(-0.208333, -5.11366, -1.6327)
+
+Value 26: (gtsam::Pose2)
+(0.769801, -5.17016, -0.0341785)
+
+Total relin keys: 27 num relin: 3
+Relin keys: 5 8 12 
+step = 27, Chi2 = 0.00168569, graph_error = 0.00252854
+Values with 28 values:
+Value 0: (gtsam::Pose2)
+(6.0464e-18, 4.15003e-17, 5.81637e-17)
+
+Value 1: (gtsam::Pose2)
+(1.00015, 0.00505214, 0.041181)
+
+Value 2: (gtsam::Pose2)
+(2.00406, 0.0314922, 0.0442207)
+
+Value 3: (gtsam::Pose2)
+(2.97789, 0.0551679, 0.0701987)
+
+Value 4: (gtsam::Pose2)
+(4.01485, 0.122373, 0.0680502)
+
+Value 5: (gtsam::Pose2)
+(5.00989, 0.114608, 0.0392746)
+
+Value 6: (gtsam::Pose2)
+(4.94343, 1.23097, 1.63909)
+
+Value 7: (gtsam::Pose2)
+(4.93342, 2.26446, 1.62659)
+
+Value 8: (gtsam::Pose2)
+(4.9021, 3.18733, 1.63713)
+
+Value 9: (gtsam::Pose2)
+(4.79915, 4.24518, 1.65988)
+
+Value 10: (gtsam::Pose2)
+(4.76385, 5.23993, 1.63811)
+
+Value 11: (gtsam::Pose2)
+(3.76715, 5.20437, -3.06624)
+
+Value 12: (gtsam::Pose2)
+(2.86956, 5.14332, -3.10192)
+
+Value 13: (gtsam::Pose2)
+(1.93792, 5.04134, -3.11138)
+
+Value 14: (gtsam::Pose2)
+(1.05387, 4.97491, -3.13008)
+
+Value 15: (gtsam::Pose2)
+(0.154182, 4.92565, -3.12239)
+
+Value 16: (gtsam::Pose2)
+(0.12806, 3.93913, -1.59254)
+
+Value 17: (gtsam::Pose2)
+(0.111645, 2.96909, -1.58053)
+
+Value 18: (gtsam::Pose2)
+(0.0454758, 1.97884, -1.60419)
+
+Value 19: (gtsam::Pose2)
+(-0.0113591, 0.968155, -1.58076)
+
+Value 20: (gtsam::Pose2)
+(-0.037662, -0.0525444, -1.59263)
+
+Value 21: (gtsam::Pose2)
+(-0.0219514, -1.04753, -1.60763)
+
+Value 22: (gtsam::Pose2)
+(-0.0607452, -2.08274, -1.62717)
+
+Value 23: (gtsam::Pose2)
+(-0.158571, -3.00382, -1.59753)
+
+Value 24: (gtsam::Pose2)
+(-0.0792852, -4.02382, -1.60653)
+
+Value 25: (gtsam::Pose2)
+(-0.208478, -5.11364, -1.63273)
+
+Value 26: (gtsam::Pose2)
+(0.769655, -5.17017, -0.0342076)
+
+Value 27: (gtsam::Pose2)
+(1.73526, -5.22655, -0.0379819)
+
+Total relin keys: 28 num relin: 3
+Relin keys: 4 17 18 
+step = 28, Chi2 = 0.0016857, graph_error = 0.00252855
+Values with 29 values:
+Value 0: (gtsam::Pose2)
+(-6.95413e-18, 2.09694e-17, 2.15881e-17)
+
+Value 1: (gtsam::Pose2)
+(1.00015, 0.0050579, 0.0411881)
+
+Value 2: (gtsam::Pose2)
+(2.00405, 0.0315122, 0.0442363)
+
+Value 3: (gtsam::Pose2)
+(2.97788, 0.0552113, 0.070224)
+
+Value 4: (gtsam::Pose2)
+(4.01498, 0.122387, 0.0680866)
+
+Value 5: (gtsam::Pose2)
+(5.01008, 0.11484, 0.0392986)
+
+Value 6: (gtsam::Pose2)
+(4.94358, 1.2312, 1.63913)
+
+Value 7: (gtsam::Pose2)
+(4.93351, 2.26468, 1.62664)
+
+Value 8: (gtsam::Pose2)
+(4.90214, 3.18755, 1.63718)
+
+Value 9: (gtsam::Pose2)
+(4.79912, 4.24539, 1.65994)
+
+Value 10: (gtsam::Pose2)
+(4.76376, 5.24014, 1.63817)
+
+Value 11: (gtsam::Pose2)
+(3.76706, 5.20453, -3.06619)
+
+Value 12: (gtsam::Pose2)
+(2.86948, 5.14342, -3.10187)
+
+Value 13: (gtsam::Pose2)
+(1.93784, 5.0414, -3.11133)
+
+Value 14: (gtsam::Pose2)
+(1.05379, 4.97493, -3.13004)
+
+Value 15: (gtsam::Pose2)
+(0.154096, 4.92563, -3.12235)
+
+Value 16: (gtsam::Pose2)
+(0.128001, 3.93911, -1.59251)
+
+Value 17: (gtsam::Pose2)
+(0.111768, 2.96908, -1.5805)
+
+Value 18: (gtsam::Pose2)
+(0.0455338, 1.97884, -1.6042)
+
+Value 19: (gtsam::Pose2)
+(-0.0113492, 0.968156, -1.58076)
+
+Value 20: (gtsam::Pose2)
+(-0.0376594, -0.0525428, -1.59264)
+
+Value 21: (gtsam::Pose2)
+(-0.0219559, -1.04753, -1.60764)
+
+Value 22: (gtsam::Pose2)
+(-0.060757, -2.08274, -1.62718)
+
+Value 23: (gtsam::Pose2)
+(-0.158589, -3.00382, -1.59754)
+
+Value 24: (gtsam::Pose2)
+(-0.0793108, -4.02382, -1.60654)
+
+Value 25: (gtsam::Pose2)
+(-0.208512, -5.11364, -1.63273)
+
+Value 26: (gtsam::Pose2)
+(0.769621, -5.17018, -0.0342147)
+
+Value 27: (gtsam::Pose2)
+(1.73523, -5.22656, -0.0379891)
+
+Value 28: (gtsam::Pose2)
+(2.67286, -5.16643, -0.0437361)
+
+Total relin keys: 29 num relin: 3
+Relin keys: 2 3 23 
+step = 29, Chi2 = 0.00168565, graph_error = 0.00252847
+Values with 30 values:
+Value 0: (gtsam::Pose2)
+(3.40728e-18, 1.45403e-17, 3.14463e-17)
+
+Value 1: (gtsam::Pose2)
+(1.00015, 0.00505029, 0.0411807)
+
+Value 2: (gtsam::Pose2)
+(2.00405, 0.0314901, 0.0442217)
+
+Value 3: (gtsam::Pose2)
+(2.9779, 0.0551648, 0.0702042)
+
+Value 4: (gtsam::Pose2)
+(4.01469, 0.122348, 0.0680568)
+
+Value 5: (gtsam::Pose2)
+(5.00979, 0.114764, 0.0392626)
+
+Value 6: (gtsam::Pose2)
+(4.94334, 1.23112, 1.63909)
+
+Value 7: (gtsam::Pose2)
+(4.93332, 2.26461, 1.62659)
+
+Value 8: (gtsam::Pose2)
+(4.902, 3.18748, 1.63713)
+
+Value 9: (gtsam::Pose2)
+(4.79902, 4.24532, 1.6599)
+
+Value 10: (gtsam::Pose2)
+(4.7637, 5.24008, 1.63813)
+
+Value 11: (gtsam::Pose2)
+(3.767, 5.20449, -3.06622)
+
+Value 12: (gtsam::Pose2)
+(2.86942, 5.14341, -3.10189)
+
+Value 13: (gtsam::Pose2)
+(1.93778, 5.0414, -3.11134)
+
+Value 14: (gtsam::Pose2)
+(1.05373, 4.97493, -3.13004)
+
+Value 15: (gtsam::Pose2)
+(0.154045, 4.92563, -3.12235)
+
+Value 16: (gtsam::Pose2)
+(0.127958, 3.93911, -1.59251)
+
+Value 17: (gtsam::Pose2)
+(0.111736, 2.96908, -1.58049)
+
+Value 18: (gtsam::Pose2)
+(0.0455136, 1.97884, -1.60419)
+
+Value 19: (gtsam::Pose2)
+(-0.0113591, 0.968156, -1.58076)
+
+Value 20: (gtsam::Pose2)
+(-0.0376617, -0.0525429, -1.59263)
+
+Value 21: (gtsam::Pose2)
+(-0.0219509, -1.04753, -1.60763)
+
+Value 22: (gtsam::Pose2)
+(-0.0607443, -2.08274, -1.62717)
+
+Value 23: (gtsam::Pose2)
+(-0.158571, -3.00379, -1.59753)
+
+Value 24: (gtsam::Pose2)
+(-0.0792838, -4.02384, -1.60653)
+
+Value 25: (gtsam::Pose2)
+(-0.208476, -5.11366, -1.63273)
+
+Value 26: (gtsam::Pose2)
+(0.769656, -5.17019, -0.0342073)
+
+Value 27: (gtsam::Pose2)
+(1.73527, -5.22657, -0.0379817)
+
+Value 28: (gtsam::Pose2)
+(2.6729, -5.16643, -0.0437287)
+
+Value 29: (gtsam::Pose2)
+(3.63945, -5.21033, -0.0251722)
+
+final_chi2 = 0.00168565, final_error = 0.00252847
+step = 0, update_time = 0 us, calc_time = 0 us
+step = 1, update_time = 4076 us, calc_time = 0 us
+step = 2, update_time = 93 us, calc_time = 0 us
+step = 3, update_time = 54 us, calc_time = 0 us
+step = 4, update_time = 53 us, calc_time = 0 us
+step = 5, update_time = 74 us, calc_time = 0 us
+step = 6, update_time = 44 us, calc_time = 0 us
+step = 7, update_time = 65 us, calc_time = 1 us
+step = 8, update_time = 38 us, calc_time = 0 us
+step = 9, update_time = 31 us, calc_time = 0 us
+step = 10, update_time = 29 us, calc_time = 0 us
+step = 11, update_time = 44 us, calc_time = 1 us
+step = 12, update_time = 49 us, calc_time = 0 us
+step = 13, update_time = 122 us, calc_time = 1 us
+step = 14, update_time = 51 us, calc_time = 0 us
+step = 15, update_time = 44 us, calc_time = 0 us
+step = 16, update_time = 100 us, calc_time = 0 us
+step = 17, update_time = 102 us, calc_time = 0 us
+step = 18, update_time = 168 us, calc_time = 0 us
+step = 19, update_time = 123 us, calc_time = 0 us
+step = 20, update_time = 90 us, calc_time = 0 us
+step = 21, update_time = 153 us, calc_time = 0 us
+step = 22, update_time = 176 us, calc_time = 0 us
+step = 23, update_time = 130 us, calc_time = 0 us
+step = 24, update_time = 176 us, calc_time = 0 us
+step = 25, update_time = 186 us, calc_time = 0 us
+step = 26, update_time = 202 us, calc_time = 0 us
+step = 27, update_time = 201 us, calc_time = 0 us
+Total: 0.00 seconds
