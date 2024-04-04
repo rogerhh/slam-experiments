@@ -1,0 +1,68 @@
+step = 20, Chi2 = 0.00159049, graph_error = 0.00715721
+Nonlinear optimization exceed max iterations: 100 >= 100, chi2 = 0.00159049
+After relin
+Values with 21 values:
+Value 0: (gtsam::Pose2)
+(1.70782e-17, 4.53221e-17, 5.02982e-17)
+
+Value 1: (gtsam::Pose2)
+(0.971233, 0.00630954, 0.0446485)
+
+Value 2: (gtsam::Pose2)
+(1.97473, 0.0404156, 0.0508336)
+
+Value 3: (gtsam::Pose2)
+(2.94813, 0.073608, 0.0789203)
+
+Value 4: (gtsam::Pose2)
+(3.98402, 0.151996, 0.077871)
+
+Value 5: (gtsam::Pose2)
+(4.97898, 0.155247, 0.0490975)
+
+Value 6: (gtsam::Pose2)
+(4.90241, 1.27199, 1.64793)
+
+Value 7: (gtsam::Pose2)
+(4.88408, 2.30636, 1.63429)
+
+Value 8: (gtsam::Pose2)
+(4.84698, 3.23009, 1.64349)
+
+Value 9: (gtsam::Pose2)
+(4.73873, 4.28849, 1.66477)
+
+Value 10: (gtsam::Pose2)
+(4.69994, 5.28415, 1.64141)
+
+Value 11: (gtsam::Pose2)
+(3.70312, 5.24814, -3.06471)
+
+Value 12: (gtsam::Pose2)
+(2.80533, 5.18731, -3.10111)
+
+Value 13: (gtsam::Pose2)
+(1.87359, 5.08548, -3.11038)
+
+Value 14: (gtsam::Pose2)
+(0.98946, 5.01813, -3.12788)
+
+Value 15: (gtsam::Pose2)
+(0.0897607, 4.96601, -3.11808)
+
+Value 16: (gtsam::Pose2)
+(0.0706768, 3.98036, -1.58518)
+
+Value 17: (gtsam::Pose2)
+(0.0645349, 3.01124, -1.56989)
+
+Value 18: (gtsam::Pose2)
+(0.0120463, 2.02119, -1.59013)
+
+Value 19: (gtsam::Pose2)
+(-0.027074, 1.01067, -1.56302)
+
+Value 20: (gtsam::Pose2)
+(-0.00923648, 0.0336683, -1.55013)
+
+min_chi2 = 0.00159049

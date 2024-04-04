@@ -1,0 +1,81 @@
+reordered_parking-garage /usr/local/lib/python3.8/dist-packages/gtsam-4.1.1-py3.8.egg/gtsam/Data/reordered_parking-garage.g2o
+dataset: reordered_parking-garage
+preconditioner type: selcholupdate
+lc_lookahead: 3
+
+preconditioner_generator, step = 259
+2.4939452056970778e-05
+preconditioner_generator, step = 260
+2.4027187811368697e-05
+preconditioner_generator, step = 261
+2.3726185240300037e-05
+preconditioner_generator, step = 262
+2.327637790195041e-05
+Old A shape:  (1944, 1560)
+New A shape:  (2010, 1578)
+Matrix size:  (1578, 1578)
+Relin rank:  204
+Observe rank:  42
+length of A_tilde_high =  (0, 1560)
+(2010, 1578)
+(1578, 1578)
+Condition num before conditioning:  135578.33714917197
+Condition num after conditioning:  8.81590132204535
+cg_count = 11
+preconditioner_generator, step = 582
+4.11399218122801e-05
+preconditioner_generator, step = 583
+4.199589238769767e-05
+preconditioner_generator, step = 584
+4.832459788483675e-05
+preconditioner_generator, step = 585
+5.234439872401078e-05
+Old A shape:  (4476, 3498)
+New A shape:  (4626, 3516)
+Matrix size:  (3516, 3516)
+Relin rank:  415
+Observe rank:  78
+length of A_tilde_high =  (0, 3498)
+(4626, 3516)
+(3516, 3516)
+Condition num before conditioning:  239546.46449276607
+Condition num after conditioning:  26.97570867238922
+cg_count = 16
+preconditioner_generator, step = 797
+6.79177165459975e-05
+preconditioner_generator, step = 798
+6.791771654600041e-05
+preconditioner_generator, step = 799
+6.782813225270708e-05
+preconditioner_generator, step = 800
+6.770562735500534e-05
+Old A shape:  (13062, 4788)
+New A shape:  (13116, 4806)
+Matrix size:  (4806, 4806)
+Relin rank:  2065
+Observe rank:  42
+length of A_tilde_high =  (0, 4788)
+(13116, 4806)
+(4806, 4806)
+Condition num before conditioning:  426752.2670550105
+Condition num after conditioning:  5.208409753008295
+cg_count = 13
+preconditioner_generator, step = 850
+6.397617161043583e-05
+preconditioner_generator, step = 851
+6.393345150662922e-05
+preconditioner_generator, step = 852
+6.399681319548578e-05
+preconditioner_generator, step = 853
+6.393041495483721e-05
+Old A shape:  (14418, 5106)
+New A shape:  (14496, 5124)
+Matrix size:  (5124, 5124)
+Relin rank:  1480
+Observe rank:  42
+length of A_tilde_high =  (0, 5106)
+(14496, 5124)
+(5124, 5124)
+Condition num before conditioning:  428586.08981385606
+Condition num after conditioning:  11.906367984386081
+cg_count = 13

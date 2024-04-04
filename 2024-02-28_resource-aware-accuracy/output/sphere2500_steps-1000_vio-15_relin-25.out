@@ -1,0 +1,5 @@
+Incremental optimization
+Loading sphere2500
+Parameters: K = 1, epsilon = 0.001, max_optimization_iter = 50, opt_stop_cond = 0, relinearize_skip = 4, relin_tree_depth = 2147483647, print_frequency = 100
+measurements.size() = 4949
+values.size() = 0 Playing forward time steps...
