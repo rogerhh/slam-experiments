@@ -1,0 +1,2417 @@
+step = 900
+here0
+active node size: 159
+num children: 
+0 0 0 0 0 1 1 0 1 0 0 0 0 0 2 0 0 1 2 0 0 1 3 2 0 0 2 0 0 0 1 0 1 4 2 0 0 2 0 0 1 1 1 2 2 2 0 0 0 0 2 3 0 1 1 2 0 0 1 1 2 2 2 3 0 0 0 3 0 0 0 1 4 0 0 0 0 2 3 0 0 0 0 0 0 2 1 0 0 1 1 2 2 3 3 2 0 0 0 3 2 0 0 2 0 0 0 0 4 3 0 0 0 0 1 0 0 1 1 3 4 0 0 2 0 0 0 0 1 4 2 2 0 0 2 0 0 1 2 2 2 0 0 2 0 0 1 1 2 2 3 2 2 2 2 2 2 2 3 1 
+thread 0 node = 0
+thread 0 node 0 malloc node 0
+thread 0 node 0 malloc parent 54
+thread 0 node = 2
+thread 0 node 2 malloc node 2
+thread 0 node 2 malloc parent 42
+thread 0 node = 3
+thread 0 node 3 malloc node 3
+thread 0 node 3 malloc parent 41
+thread 0 node = 4
+thread 0 node 4 malloc node 4
+thread 0 node 4 malloc parent 5
+thread 0 node = 7
+thread 0 node 7 malloc node 7
+thread 0 node 7 malloc parent 8
+thread 0 node = 9
+thread 0 node 9 malloc node 9
+thread 0 node 9 malloc parent 146
+thread 0 node = 10
+thread 0 node 10 malloc node 10
+thread 0 node 10 malloc parent 147
+thread 0 node = 11
+thread 0 node 11 malloc node 11
+thread 0 node 11 malloc parent 148
+thread 0 node = 12
+thread 0 node 12 malloc node 12
+thread 0 node 12 malloc parent 14
+thread 0 node = 13
+thread 0 node 13 malloc node 13
+thread 0 node = 15
+thread 0 node 15 malloc node 15
+thread 0 node 15 malloc parent 18
+thread 0 node = 16
+thread 0 node 16 malloc node 16
+thread 0 node 16 malloc parent 17
+thread 0 node = 19
+thread 0 node 19 malloc node 19
+thread 0 node 19 malloc parent 22
+thread 0 node = 20
+thread 0 node 20 malloc node 20
+thread 0 node 20 malloc parent 21
+thread 0 node = 24
+thread 0 node 24 malloc node 24
+thread 0 node 24 malloc parent 26
+thread 0 node = 25
+thread 0 node 25 malloc node 25
+thread 0 node = 27
+thread 0 node 27 malloc node 27
+thread 0 node 27 malloc parent 33
+thread 0 node = 28
+thread 0 node 28 malloc node 28
+thread 0 node = 29
+thread 0 node 29 malloc node 29
+thread 0 node 29 malloc parent 30
+thread 0 node = 31
+thread 0 node 31 malloc node 31
+thread 0 node 31 malloc parent 32
+thread 0 node = 35
+thread 0 node 35 malloc node 35
+thread 0 node 35 malloc parent 37
+thread 0 node = 36
+thread 0 node 36 malloc node 36
+thread 0 node = 38
+thread 0 node 38 malloc node 38
+thread 0 node 38 malloc parent 45
+thread 0 node = 39
+thread 0 node 39 malloc node 39
+thread 0 node 39 malloc parent 40
+thread 0 node = 46
+thread 0 node 46 malloc node 46
+thread 0 node 46 malloc parent 51
+thread 0 node = 47
+thread 0 node 47 malloc node 47
+thread 0 node = 48
+thread 0 node 48 malloc node 48
+thread 0 node 48 malloc parent 50
+thread 0 node = 49
+thread 0 node 49 malloc node 49
+thread 0 node = 52
+thread 0 node 52 malloc node 52
+thread 0 node 52 malloc parent 53
+thread 0 node = 56
+thread 0 node 56 malloc node 56
+thread 0 node 56 malloc parent 60
+thread 0 node = 57
+thread 0 node 57 malloc node 57
+thread 0 node 57 malloc parent 58
+thread 0 node = 64
+thread 0 node 64 malloc node 64
+thread 0 node 64 malloc parent 67
+thread 0 node = 65
+thread 0 node 65 malloc node 65
+thread 0 node = 66
+thread 0 node 66 malloc node 66
+thread 0 node = 68
+thread 0 node 68 malloc node 68
+thread 0 node 68 malloc parent 72
+thread 0 node = 69
+thread 0 node 69 malloc node 69
+thread 0 node = 70
+thread 0 node 70 malloc node 70
+thread 0 node 70 malloc parent 71
+thread 0 node = 73
+thread 0 node 73 malloc node 73
+thread 0 node 73 malloc parent 78
+thread 0 node = 74
+thread 0 node 74 malloc node 74
+thread 0 node = 75
+thread 0 node 75 malloc node 75
+thread 0 node 75 malloc parent 77
+thread 0 node = 76
+thread 0 node 76 malloc node 76
+thread 0 node = 79
+thread 0 node 79 malloc node 79
+thread 0 node 79 malloc parent 94
+thread 0 node = 80
+thread 0 node 80 malloc node 80
+thread 0 node = 81
+thread 0 node 81 malloc node 81
+thread 0 node 81 malloc parent 93
+thread 0 node = 82
+thread 0 node 82 malloc node 82
+thread 0 node = 83
+thread 0 node 83 malloc node 83
+thread 0 node 83 malloc parent 85
+thread 0 node = 84
+thread 0 node 84 malloc node 84
+thread 0 node = 87
+thread 0 node 87 malloc node 87
+thread 0 node 87 malloc parent 91
+thread 0 node = 88
+thread 0 node 88 malloc node 88
+thread 0 node 88 malloc parent 89
+thread 0 node = 96
+thread 0 node 96 malloc node 96
+thread 0 node 96 malloc parent 100
+thread 0 node = 97
+thread 0 node 97 malloc node 97
+thread 0 node 97 malloc parent 99
+thread 0 node = 98
+thread 0 node 98 malloc node 98
+thread 0 node = 101
+thread 0 node 101 malloc node 101
+thread 0 node 101 malloc parent 103
+thread 0 node = 102
+thread 0 node 102 malloc node 102
+thread 0 node = 104
+thread 0 node 104 malloc node 104
+thread 0 node 104 malloc parent 108
+thread 0 node = 105
+thread 0 node 105 malloc node 105
+thread 0 node = 106
+thread 0 node 106 malloc node 106
+thread 0 node = 107
+thread 0 node 107 malloc node 107
+thread 0 node = 110
+thread 0 node 110 malloc node 110
+thread 0 node 110 malloc parent 120
+thread 0 node = 111
+thread 0 node 111 malloc node 111
+thread 0 node = 112
+thread 0 node 112 malloc node 112
+thread 0 node = 113
+thread 0 node 113 malloc node 113
+thread 0 node 113 malloc parent 114
+thread 0 node = 115
+thread 0 node 115 malloc node 115
+thread 0 node 115 malloc parent 119
+thread 0 node = 116
+thread 0 node 116 malloc node 116
+thread 0 node 116 malloc parent 117
+thread 0 node = 121
+thread 0 node 121 malloc node 121
+thread 0 node 121 malloc parent 123
+thread 0 node = 122
+thread 0 node 122 malloc node 122
+thread 0 node = 124
+thread 0 node 124 malloc node 124
+thread 0 node 124 malloc parent 129
+thread 0 node = 125
+thread 0 node 125 malloc node 125
+thread 0 node = 126
+thread 0 node 126 malloc node 126
+thread 0 node = 127
+thread 0 node 127 malloc node 127
+thread 0 node 127 malloc parent 128
+thread 0 node = 132
+thread 0 node 132 malloc node 132
+thread 0 node 132 malloc parent 134
+thread 0 node = 133
+thread 0 node 133 malloc node 133
+thread 0 node = 135
+thread 0 node 135 malloc node 135
+thread 0 node 135 malloc parent 139
+thread 0 node = 136
+thread 0 node 136 malloc node 136
+thread 0 node 136 malloc parent 137
+thread 0 node = 141
+thread 0 node 141 malloc node 141
+thread 0 node 141 malloc parent 143
+thread 0 node = 142
+thread 0 node 142 malloc node 142
+thread 0 node = 144
+thread 0 node 144 malloc node 144
+thread 0 node 144 malloc parent 150
+thread 0 node = 145
+thread 0 node 145 malloc node 145
+thread 0 node = 54
+thread 0 node 54 malloc parent 55
+thread 0 node = 42
+thread 0 node 42 malloc parent 43
+thread 0 node = 41
+thread 0 node = 5
+thread 0 node 5 malloc parent 6
+thread 0 node = 8
+thread 0 node = 146
+thread 0 node 146 malloc parent 149
+thread 0 node = 147
+thread 0 node = 14
+thread 0 node 14 malloc parent 23
+thread 0 node = 17
+thread 0 node = 21
+thread 0 node = 26
+thread 0 node 26 malloc parent 34
+thread 0 node = 30
+thread 0 node = 32
+thread 0 node = 37
+thread 0 node 37 malloc parent 63
+thread 0 node = 40
+thread 0 node 40 malloc parent 44
+thread 0 node = 50
+thread 0 node = 53
+thread 0 node = 58
+thread 0 node 58 malloc parent 59
+thread 0 node = 67
+thread 0 node = 71
+thread 0 node = 77
+thread 0 node = 85
+thread 0 node 85 malloc parent 86
+thread 0 node = 89
+thread 0 node 89 malloc parent 90
+thread 0 node = 103
+thread 0 node 103 malloc parent 109
+thread 0 node = 108
+thread 0 node = 114
+thread 0 node = 117
+thread 0 node 117 malloc parent 118
+thread 0 node = 123
+thread 0 node 123 malloc parent 130
+thread 0 node = 128
+thread 0 node = 134
+thread 0 node 134 malloc parent 140
+thread 0 node = 137
+thread 0 node 137 malloc parent 138
+thread 0 node = 143
+thread 0 node 143 malloc parent 151
+thread 0 node = 43
+thread 0 node = 6
+thread 0 node = 99
+thread 0 node = 148
+thread 0 node = 18
+thread 0 node = 33
+thread 0 node = 51
+thread 0 node 51 malloc parent 62
+thread 0 node = 55
+thread 0 node 55 malloc parent 61
+thread 0 node = 59
+thread 0 node = 72
+thread 0 node 72 malloc parent 156
+thread 0 node = 78
+thread 0 node 78 malloc parent 95
+thread 0 node = 86
+thread 0 node 86 malloc parent 92
+thread 0 node = 90
+thread 0 node = 118
+thread 0 node = 129
+thread 0 node = 44
+thread 0 node = 138
+thread 0 node = 100
+thread 0 node = 149
+thread 0 node = 22
+thread 0 node = 34
+thread 0 node 34 malloc parent 158
+thread 0 node = 60
+thread 0 node = 91
+thread 0 node = 119
+thread 0 node = 130
+thread 0 node 130 malloc parent 131
+thread 0 node = 45
+thread 0 node = 139
+thread 0 node = 109
+thread 0 node 109 malloc parent 154
+thread 0 node = 150
+thread 0 node = 23
+thread 0 node = 61
+thread 0 node = 92
+thread 0 node = 120
+thread 0 node = 140
+thread 0 node 140 malloc parent 152
+thread 0 node = 151
+thread 0 node = 62
+thread 0 node = 93
+thread 0 node = 131
+thread 0 node 131 malloc parent 153
+thread 0 node = 152
+thread 0 node = 63
+thread 0 node 63 malloc parent 157
+thread 0 node = 94
+thread 0 node = 153
+thread 0 node = 95
+thread 0 node 95 malloc parent 155
+thread 0 node = 154
+thread 0 node = 155
+thread 0 node = 156
+thread 0 node = 157
+thread 0 node = 158
+thread 0 node 158 malloc parent 159
+thread 0 node = 159
+thread 0 solve node = 159
+thread 0 solve node = 158
+thread 0 solve node = 157
+thread 0 solve node = 34
+thread 0 solve node = 23
+thread 0 solve node = 156
+thread 0 solve node = 63
+thread 0 solve node = 33
+thread 0 solve node = 26
+thread 0 solve node = 22
+thread 0 solve node = 14
+thread 0 solve node = 155
+thread 0 solve node = 72
+thread 0 solve node = 62
+thread 0 solve node = 45
+thread 0 solve node = 37
+thread 0 solve node = 32
+thread 0 solve node = 30
+thread 0 solve node = 28
+thread 0 solve node = 27
+thread 0 solve node = 25
+thread 0 solve node = 24
+thread 0 solve node = 21
+thread 0 solve node = 19
+thread 0 solve node = 18
+thread 0 solve node = 13
+thread 0 solve node = 12
+thread 0 solve node = 154
+thread 0 solve node = 95
+thread 0 solve node = 71
+thread 0 solve node = 69
+thread 0 solve node = 68
+thread 0 solve node = 67
+thread 0 solve node = 61
+thread 0 solve node = 51
+thread 0 solve node = 44
+thread 0 solve node = 38
+thread 0 solve node = 36
+thread 0 solve node = 35
+thread 0 solve node = 31
+thread 0 solve node = 29
+thread 0 solve node = 20
+thread 0 solve node = 17
+thread 0 solve node = 15
+thread 0 solve node = 153
+thread 0 solve node = 109
+thread 0 solve node = 94
+thread 0 solve node = 78
+thread 0 solve node = 70
+thread 0 solve node = 66
+thread 0 solve node = 65
+thread 0 solve node = 64
+thread 0 solve node = 60
+thread 0 solve node = 55
+thread 0 solve node = 50
+thread 0 solve node = 47
+thread 0 solve node = 46
+thread 0 solve node = 43
+thread 0 solve node = 40
+thread 0 solve node = 16
+thread 0 solve node = 152
+thread 0 solve node = 131
+thread 0 solve node = 108
+thread 0 solve node = 103
+thread 0 solve node = 100
+thread 0 solve node = 93
+thread 0 solve node = 80
+thread 0 solve node = 79
+thread 0 solve node = 77
+thread 0 solve node = 74
+thread 0 solve node = 73
+thread 0 solve node = 59
+thread 0 solve node = 56
+thread 0 solve node = 54
+thread 0 solve node = 53
+thread 0 solve node = 49
+thread 0 solve node = 48
+thread 0 solve node = 42
+thread 0 solve node = 41
+thread 0 solve node = 39
+thread 0 solve node = 151
+thread 0 solve node = 140
+thread 0 solve node = 130
+thread 0 solve node = 120
+thread 0 solve node = 107
+thread 0 solve node = 106
+thread 0 solve node = 105
+thread 0 solve node = 104
+thread 0 solve node = 102
+thread 0 solve node = 101
+thread 0 solve node = 99
+thread 0 solve node = 96
+thread 0 solve node = 92
+thread 0 solve node = 82
+thread 0 solve node = 81
+thread 0 solve node = 76
+thread 0 solve node = 75
+thread 0 solve node = 58
+thread 0 solve node = 0
+thread 0 solve node = 52
+thread 0 solve node = 2
+thread 0 solve node = 3
+thread 0 solve node = 150
+thread 0 solve node = 143
+thread 0 solve node = 139
+thread 0 solve node = 134
+thread 0 solve node = 129
+thread 0 solve node = 123
+thread 0 solve node = 119
+thread 0 solve node = 112
+thread 0 solve node = 111
+thread 0 solve node = 110
+thread 0 solve node = 98
+thread 0 solve node = 97
+thread 0 solve node = 8
+thread 0 solve node = 91
+thread 0 solve node = 86
+thread 0 solve node = 57
+thread 0 solve node = 149
+thread 0 solve node = 145
+thread 0 solve node = 144
+thread 0 solve node = 142
+thread 0 solve node = 141
+thread 0 solve node = 138
+thread 0 solve node = 135
+thread 0 solve node = 133
+thread 0 solve node = 132
+thread 0 solve node = 128
+thread 0 solve node = 126
+thread 0 solve node = 125
+thread 0 solve node = 124
+thread 0 solve node = 122
+thread 0 solve node = 121
+thread 0 solve node = 118
+thread 0 solve node = 115
+thread 0 solve node = 114
+thread 0 solve node = 7
+thread 0 solve node = 90
+thread 0 solve node = 87
+thread 0 solve node = 85
+thread 0 solve node = 148
+thread 0 solve node = 146
+thread 0 solve node = 137
+thread 0 solve node = 6
+thread 0 solve node = 127
+thread 0 solve node = 117
+thread 0 solve node = 113
+thread 0 solve node = 89
+thread 0 solve node = 84
+thread 0 solve node = 83
+thread 0 solve node = 147
+thread 0 solve node = 11
+thread 0 solve node = 9
+thread 0 solve node = 136
+thread 0 solve node = 5
+thread 0 solve node = 116
+thread 0 solve node = 88
+thread 0 solve node = 10
+thread 0 solve node = 4
+step = 901
+here0
+active node size: 160
+num children: 
+0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 3 0 0 2 0 1 1 0 0 4 2 0 0 0 0 4 0 0 1 2 0 1 0 0 1 1 3 3 0 0 2 2 0 1 1 0 2 2 2 0 0 0 1 3 2 0 0 0 0 4 2 2 0 0 2 0 0 1 0 1 0 1 2 1 2 2 2 0 0 1 2 0 0 1 2 2 2 0 0 2 0 2 0 0 0 3 4 2 2 0 0 2 0 0 2 0 1 2 2 0 0 1 0 0 2 3 2 3 0 0 0 0 4 0 0 0 0 4 0 1 0 0 3 0 0 0 0 2 3 0 0 1 0 1 0 1 2 3 2 2 3 2 2 2 3 1 
+thread 0 node = 0
+thread 0 node 0 malloc node 0
+thread 0 node 0 malloc parent 9
+thread 0 node = 1
+thread 0 node 1 malloc node 1
+thread 0 node 1 malloc parent 94
+thread 0 node = 2
+thread 0 node 2 malloc node 2
+thread 0 node 2 malloc parent 7
+thread 0 node = 3
+thread 0 node 3 malloc node 3
+thread 0 node 3 malloc parent 84
+thread 0 node = 4
+thread 0 node 4 malloc node 4
+thread 0 node 4 malloc parent 5
+thread 0 node = 6
+thread 0 node 6 malloc node 6
+thread 0 node 6 malloc parent 111
+thread 0 node = 10
+thread 0 node 10 malloc node 10
+thread 0 node 10 malloc parent 45
+thread 0 node = 11
+thread 0 node 11 malloc node 11
+thread 0 node = 12
+thread 0 node 12 malloc node 12
+thread 0 node 12 malloc parent 15
+thread 0 node = 13
+thread 0 node 13 malloc node 13
+thread 0 node = 14
+thread 0 node 14 malloc node 14
+thread 0 node = 16
+thread 0 node 16 malloc node 16
+thread 0 node 16 malloc parent 18
+thread 0 node = 17
+thread 0 node 17 malloc node 17
+thread 0 node = 19
+thread 0 node 19 malloc node 19
+thread 0 node 19 malloc parent 20
+thread 0 node = 22
+thread 0 node 22 malloc node 22
+thread 0 node 22 malloc parent 24
+thread 0 node = 23
+thread 0 node 23 malloc node 23
+thread 0 node = 26
+thread 0 node 26 malloc node 26
+thread 0 node 26 malloc parent 30
+thread 0 node = 27
+thread 0 node 27 malloc node 27
+thread 0 node = 28
+thread 0 node 28 malloc node 28
+thread 0 node = 29
+thread 0 node 29 malloc node 29
+thread 0 node = 31
+thread 0 node 31 malloc node 31
+thread 0 node 31 malloc parent 34
+thread 0 node = 32
+thread 0 node 32 malloc node 32
+thread 0 node 32 malloc parent 33
+thread 0 node = 35
+thread 0 node 35 malloc node 35
+thread 0 node 35 malloc parent 36
+thread 0 node = 37
+thread 0 node 37 malloc node 37
+thread 0 node 37 malloc parent 41
+thread 0 node = 38
+thread 0 node 38 malloc node 38
+thread 0 node 38 malloc parent 39
+thread 0 node = 43
+thread 0 node 43 malloc node 43
+thread 0 node 43 malloc parent 46
+thread 0 node = 44
+thread 0 node 44 malloc node 44
+thread 0 node = 47
+thread 0 node 47 malloc node 47
+thread 0 node 47 malloc parent 48
+thread 0 node = 50
+thread 0 node 50 malloc node 50
+thread 0 node 50 malloc parent 51
+thread 0 node = 54
+thread 0 node 54 malloc node 54
+thread 0 node 54 malloc parent 59
+thread 0 node = 55
+thread 0 node 55 malloc node 55
+thread 0 node 55 malloc parent 58
+thread 0 node = 56
+thread 0 node 56 malloc node 56
+thread 0 node 56 malloc parent 57
+thread 0 node = 60
+thread 0 node 60 malloc node 60
+thread 0 node 60 malloc parent 64
+thread 0 node = 61
+thread 0 node 61 malloc node 61
+thread 0 node = 62
+thread 0 node 62 malloc node 62
+thread 0 node = 63
+thread 0 node 63 malloc node 63
+thread 0 node = 67
+thread 0 node 67 malloc node 67
+thread 0 node 67 malloc parent 69
+thread 0 node = 68
+thread 0 node 68 malloc node 68
+thread 0 node = 70
+thread 0 node 70 malloc node 70
+thread 0 node 70 malloc parent 80
+thread 0 node = 71
+thread 0 node 71 malloc node 71
+thread 0 node 71 malloc parent 72
+thread 0 node = 73
+thread 0 node 73 malloc node 73
+thread 0 node 73 malloc parent 74
+thread 0 node = 75
+thread 0 node 75 malloc node 75
+thread 0 node 75 malloc parent 76
+thread 0 node = 82
+thread 0 node 82 malloc node 82
+thread 0 node 82 malloc parent 91
+thread 0 node = 83
+thread 0 node 83 malloc node 83
+thread 0 node 83 malloc parent 85
+thread 0 node = 86
+thread 0 node 86 malloc node 86
+thread 0 node 86 malloc parent 89
+thread 0 node = 87
+thread 0 node 87 malloc node 87
+thread 0 node 87 malloc parent 88
+thread 0 node = 92
+thread 0 node 92 malloc node 92
+thread 0 node 92 malloc parent 101
+thread 0 node = 93
+thread 0 node 93 malloc node 93
+thread 0 node = 95
+thread 0 node 95 malloc node 95
+thread 0 node 95 malloc parent 96
+thread 0 node = 97
+thread 0 node 97 malloc node 97
+thread 0 node 97 malloc parent 100
+thread 0 node = 98
+thread 0 node 98 malloc node 98
+thread 0 node = 99
+thread 0 node 99 malloc node 99
+thread 0 node = 104
+thread 0 node 104 malloc node 104
+thread 0 node 104 malloc parent 106
+thread 0 node = 105
+thread 0 node 105 malloc node 105
+thread 0 node = 107
+thread 0 node 107 malloc node 107
+thread 0 node 107 malloc parent 109
+thread 0 node = 108
+thread 0 node 108 malloc node 108
+thread 0 node = 110
+thread 0 node 110 malloc node 110
+thread 0 node 110 malloc parent 112
+thread 0 node = 114
+thread 0 node 114 malloc node 114
+thread 0 node 114 malloc parent 120
+thread 0 node = 115
+thread 0 node 115 malloc node 115
+thread 0 node 115 malloc parent 116
+thread 0 node = 117
+thread 0 node 117 malloc node 117
+thread 0 node 117 malloc parent 119
+thread 0 node = 118
+thread 0 node 118 malloc node 118
+thread 0 node = 123
+thread 0 node 123 malloc node 123
+thread 0 node 123 malloc parent 127
+thread 0 node = 124
+thread 0 node 124 malloc node 124
+thread 0 node = 125
+thread 0 node 125 malloc node 125
+thread 0 node = 126
+thread 0 node 126 malloc node 126
+thread 0 node = 128
+thread 0 node 128 malloc node 128
+thread 0 node 128 malloc parent 132
+thread 0 node = 129
+thread 0 node 129 malloc node 129
+thread 0 node = 130
+thread 0 node 130 malloc node 130
+thread 0 node = 131
+thread 0 node 131 malloc node 131
+thread 0 node = 133
+thread 0 node 133 malloc node 133
+thread 0 node 133 malloc parent 134
+thread 0 node = 135
+thread 0 node 135 malloc node 135
+thread 0 node 135 malloc parent 137
+thread 0 node = 136
+thread 0 node 136 malloc node 136
+thread 0 node = 138
+thread 0 node 138 malloc node 138
+thread 0 node 138 malloc parent 143
+thread 0 node = 139
+thread 0 node 139 malloc node 139
+thread 0 node = 140
+thread 0 node 140 malloc node 140
+thread 0 node 140 malloc parent 142
+thread 0 node = 141
+thread 0 node 141 malloc node 141
+thread 0 node = 144
+thread 0 node 144 malloc node 144
+thread 0 node 144 malloc parent 152
+thread 0 node = 145
+thread 0 node 145 malloc node 145
+thread 0 node 145 malloc parent 146
+thread 0 node = 147
+thread 0 node 147 malloc node 147
+thread 0 node 147 malloc parent 148
+thread 0 node = 149
+thread 0 node 149 malloc node 149
+thread 0 node 149 malloc parent 150
+thread 0 node = 9
+thread 0 node = 7
+thread 0 node 7 malloc parent 49
+thread 0 node = 84
+thread 0 node = 5
+thread 0 node 5 malloc parent 113
+thread 0 node = 111
+thread 0 node = 94
+thread 0 node = 15
+thread 0 node 15 malloc parent 25
+thread 0 node = 18
+thread 0 node = 20
+thread 0 node 20 malloc parent 21
+thread 0 node = 30
+thread 0 node 30 malloc parent 42
+thread 0 node = 33
+thread 0 node = 36
+thread 0 node = 39
+thread 0 node 39 malloc parent 40
+thread 0 node = 45
+thread 0 node = 48
+thread 0 node 48 malloc parent 52
+thread 0 node = 57
+thread 0 node = 64
+thread 0 node 64 malloc parent 65
+thread 0 node = 69
+thread 0 node 69 malloc parent 81
+thread 0 node = 72
+thread 0 node 72 malloc parent 79
+thread 0 node = 74
+thread 0 node 74 malloc parent 77
+thread 0 node = 76
+thread 0 node = 88
+thread 0 node = 100
+thread 0 node = 106
+thread 0 node 106 malloc parent 122
+thread 0 node = 109
+thread 0 node = 116
+thread 0 node = 119
+thread 0 node = 127
+thread 0 node 127 malloc parent 155
+thread 0 node = 132
+thread 0 node = 134
+thread 0 node = 142
+thread 0 node = 146
+thread 0 node = 148
+thread 0 node 148 malloc parent 151
+thread 0 node = 150
+thread 0 node = 49
+thread 0 node = 85
+thread 0 node 85 malloc parent 90
+thread 0 node = 112
+thread 0 node = 96
+thread 0 node = 21
+thread 0 node = 34
+thread 0 node = 40
+thread 0 node = 46
+thread 0 node 46 malloc parent 53
+thread 0 node = 58
+thread 0 node = 77
+thread 0 node 77 malloc parent 78
+thread 0 node = 89
+thread 0 node = 120
+thread 0 node 120 malloc parent 121
+thread 0 node = 137
+thread 0 node 137 malloc parent 154
+thread 0 node = 143
+thread 0 node 143 malloc parent 153
+thread 0 node = 151
+thread 0 node = 51
+thread 0 node = 113
+thread 0 node = 101
+thread 0 node 101 malloc parent 102
+thread 0 node = 24
+thread 0 node = 41
+thread 0 node = 59
+thread 0 node = 78
+thread 0 node = 90
+thread 0 node = 152
+thread 0 node = 52
+thread 0 node = 121
+thread 0 node = 25
+thread 0 node 25 malloc parent 159
+thread 0 node = 42
+thread 0 node = 65
+thread 0 node 65 malloc parent 66
+thread 0 node = 79
+thread 0 node = 91
+thread 0 node = 153
+thread 0 node = 53
+thread 0 node = 122
+thread 0 node 122 malloc parent 156
+thread 0 node = 80
+thread 0 node = 102
+thread 0 node 102 malloc parent 103
+thread 0 node = 154
+thread 0 node = 66
+thread 0 node 66 malloc parent 158
+thread 0 node = 81
+thread 0 node = 155
+thread 0 node = 103
+thread 0 node 103 malloc parent 157
+thread 0 node = 156
+thread 0 node = 157
+thread 0 node = 158
+thread 0 node = 159
+thread 0 node 159 malloc parent 160
+thread 0 node = 160
+thread 0 solve node = 160
+thread 0 solve node = 159
+thread 0 solve node = 158
+thread 0 solve node = 42
+thread 0 solve node = 25
+thread 0 solve node = 157
+thread 0 solve node = 66
+thread 0 solve node = 41
+thread 0 solve node = 34
+thread 0 solve node = 30
+thread 0 solve node = 24
+thread 0 solve node = 15
+thread 0 solve node = 156
+thread 0 solve node = 103
+thread 0 solve node = 65
+thread 0 solve node = 53
+thread 0 solve node = 40
+thread 0 solve node = 37
+thread 0 solve node = 36
+thread 0 solve node = 33
+thread 0 solve node = 31
+thread 0 solve node = 29
+thread 0 solve node = 28
+thread 0 solve node = 27
+thread 0 solve node = 26
+thread 0 solve node = 23
+thread 0 solve node = 22
+thread 0 solve node = 21
+thread 0 solve node = 18
+thread 0 solve node = 14
+thread 0 solve node = 13
+thread 0 solve node = 12
+thread 0 solve node = 155
+thread 0 solve node = 122
+thread 0 solve node = 102
+thread 0 solve node = 81
+thread 0 solve node = 64
+thread 0 solve node = 59
+thread 0 solve node = 52
+thread 0 solve node = 46
+thread 0 solve node = 39
+thread 0 solve node = 35
+thread 0 solve node = 32
+thread 0 solve node = 20
+thread 0 solve node = 17
+thread 0 solve node = 16
+thread 0 solve node = 154
+thread 0 solve node = 132
+thread 0 solve node = 127
+thread 0 solve node = 121
+thread 0 solve node = 109
+thread 0 solve node = 106
+thread 0 solve node = 101
+thread 0 solve node = 91
+thread 0 solve node = 80
+thread 0 solve node = 69
+thread 0 solve node = 63
+thread 0 solve node = 62
+thread 0 solve node = 61
+thread 0 solve node = 60
+thread 0 solve node = 58
+thread 0 solve node = 54
+thread 0 solve node = 51
+thread 0 solve node = 48
+thread 0 solve node = 45
+thread 0 solve node = 43
+thread 0 solve node = 38
+thread 0 solve node = 19
+thread 0 solve node = 153
+thread 0 solve node = 137
+thread 0 solve node = 131
+thread 0 solve node = 130
+thread 0 solve node = 129
+thread 0 solve node = 128
+thread 0 solve node = 126
+thread 0 solve node = 125
+thread 0 solve node = 124
+thread 0 solve node = 123
+thread 0 solve node = 120
+thread 0 solve node = 113
+thread 0 solve node = 108
+thread 0 solve node = 107
+thread 0 solve node = 105
+thread 0 solve node = 104
+thread 0 solve node = 100
+thread 0 solve node = 96
+thread 0 solve node = 93
+thread 0 solve node = 92
+thread 0 solve node = 90
+thread 0 solve node = 82
+thread 0 solve node = 79
+thread 0 solve node = 70
+thread 0 solve node = 68
+thread 0 solve node = 67
+thread 0 solve node = 57
+thread 0 solve node = 55
+thread 0 solve node = 9
+thread 0 solve node = 50
+thread 0 solve node = 49
+thread 0 solve node = 47
+thread 0 solve node = 44
+thread 0 solve node = 10
+thread 0 solve node = 152
+thread 0 solve node = 143
+thread 0 solve node = 136
+thread 0 solve node = 135
+thread 0 solve node = 134
+thread 0 solve node = 119
+thread 0 solve node = 116
+thread 0 solve node = 114
+thread 0 solve node = 112
+thread 0 solve node = 5
+thread 0 solve node = 99
+thread 0 solve node = 98
+thread 0 solve node = 97
+thread 0 solve node = 95
+thread 0 solve node = 94
+thread 0 solve node = 89
+thread 0 solve node = 85
+thread 0 solve node = 78
+thread 0 solve node = 72
+thread 0 solve node = 56
+thread 0 solve node = 0
+thread 0 solve node = 7
+thread 0 solve node = 151
+thread 0 solve node = 146
+thread 0 solve node = 144
+thread 0 solve node = 142
+thread 0 solve node = 139
+thread 0 solve node = 138
+thread 0 solve node = 133
+thread 0 solve node = 118
+thread 0 solve node = 117
+thread 0 solve node = 115
+thread 0 solve node = 111
+thread 0 solve node = 110
+thread 0 solve node = 4
+thread 0 solve node = 11
+thread 0 solve node = 1
+thread 0 solve node = 88
+thread 0 solve node = 86
+thread 0 solve node = 84
+thread 0 solve node = 83
+thread 0 solve node = 77
+thread 0 solve node = 71
+thread 0 solve node = 2
+thread 0 solve node = 150
+thread 0 solve node = 148
+thread 0 solve node = 145
+thread 0 solve node = 141
+thread 0 solve node = 140
+thread 0 solve node = 6
+thread 0 solve node = 87
+thread 0 solve node = 3
+thread 0 solve node = 76
+thread 0 solve node = 74
+thread 0 solve node = 149
+thread 0 solve node = 147
+thread 0 solve node = 75
+thread 0 solve node = 73
+step = 902
+here0
+active node size: 158
+num children: 
+0 0 0 0 1 0 1 0 0 0 0 0 4 0 0 0 0 1 0 0 0 0 0 4 0 0 1 0 1 0 0 2 0 0 0 3 0 0 2 0 0 0 1 2 2 0 1 0 0 0 0 1 1 2 3 2 3 0 0 2 1 1 0 0 1 3 2 2 0 0 0 0 2 3 0 2 0 0 1 2 3 2 0 0 2 0 2 2 2 2 2 0 0 2 0 0 0 0 2 1 2 3 0 0 0 0 2 0 1 1 0 1 2 3 0 0 2 3 4 2 0 0 2 0 0 1 2 0 1 0 0 1 3 2 2 0 0 0 4 0 0 1 0 2 3 0 0 1 0 2 1 1 3 2 2 2 2 2 2 4 1 
+thread 0 node = 0
+thread 0 node 0 malloc node 0
+thread 0 node 0 malloc parent 149
+thread 0 node = 2
+thread 0 node 2 malloc node 2
+thread 0 node 2 malloc parent 4
+thread 0 node = 5
+thread 0 node 5 malloc node 5
+thread 0 node 5 malloc parent 6
+thread 0 node = 7
+thread 0 node 7 malloc node 7
+thread 0 node 7 malloc parent 87
+thread 0 node = 8
+thread 0 node 8 malloc node 8
+thread 0 node 8 malloc parent 12
+thread 0 node = 9
+thread 0 node 9 malloc node 9
+thread 0 node = 10
+thread 0 node 10 malloc node 10
+thread 0 node = 11
+thread 0 node 11 malloc node 11
+thread 0 node = 14
+thread 0 node 14 malloc node 14
+thread 0 node 14 malloc parent 60
+thread 0 node = 15
+thread 0 node 15 malloc node 15
+thread 0 node 15 malloc parent 65
+thread 0 node = 16
+thread 0 node 16 malloc node 16
+thread 0 node 16 malloc parent 17
+thread 0 node = 18
+thread 0 node 18 malloc node 18
+thread 0 node 18 malloc parent 138
+thread 0 node = 19
+thread 0 node 19 malloc node 19
+thread 0 node 19 malloc parent 23
+thread 0 node = 20
+thread 0 node 20 malloc node 20
+thread 0 node = 21
+thread 0 node 21 malloc node 21
+thread 0 node = 22
+thread 0 node 22 malloc node 22
+thread 0 node = 24
+thread 0 node 24 malloc node 24
+thread 0 node 24 malloc parent 113
+thread 0 node = 25
+thread 0 node 25 malloc node 25
+thread 0 node 25 malloc parent 26
+thread 0 node = 27
+thread 0 node 27 malloc node 27
+thread 0 node 27 malloc parent 28
+thread 0 node = 29
+thread 0 node 29 malloc node 29
+thread 0 node 29 malloc parent 31
+thread 0 node = 30
+thread 0 node 30 malloc node 30
+thread 0 node = 32
+thread 0 node 32 malloc node 32
+thread 0 node 32 malloc parent 35
+thread 0 node = 33
+thread 0 node 33 malloc node 33
+thread 0 node = 34
+thread 0 node 34 malloc node 34
+thread 0 node = 36
+thread 0 node 36 malloc node 36
+thread 0 node 36 malloc parent 38
+thread 0 node = 37
+thread 0 node 37 malloc node 37
+thread 0 node = 39
+thread 0 node 39 malloc node 39
+thread 0 node 39 malloc parent 44
+thread 0 node = 40
+thread 0 node 40 malloc node 40
+thread 0 node 40 malloc parent 43
+thread 0 node = 41
+thread 0 node 41 malloc node 41
+thread 0 node 41 malloc parent 42
+thread 0 node = 45
+thread 0 node 45 malloc node 45
+thread 0 node 45 malloc parent 46
+thread 0 node = 47
+thread 0 node 47 malloc node 47
+thread 0 node 47 malloc parent 54
+thread 0 node = 48
+thread 0 node 48 malloc node 48
+thread 0 node = 49
+thread 0 node 49 malloc node 49
+thread 0 node 49 malloc parent 53
+thread 0 node = 50
+thread 0 node 50 malloc node 50
+thread 0 node 50 malloc parent 51
+thread 0 node = 57
+thread 0 node 57 malloc node 57
+thread 0 node 57 malloc parent 59
+thread 0 node = 58
+thread 0 node 58 malloc node 58
+thread 0 node = 62
+thread 0 node 62 malloc node 62
+thread 0 node = 63
+thread 0 node 63 malloc node 63
+thread 0 node 63 malloc parent 64
+thread 0 node = 68
+thread 0 node 68 malloc node 68
+thread 0 node 68 malloc parent 73
+thread 0 node = 69
+thread 0 node 69 malloc node 69
+thread 0 node = 70
+thread 0 node 70 malloc node 70
+thread 0 node 70 malloc parent 72
+thread 0 node = 71
+thread 0 node 71 malloc node 71
+thread 0 node = 74
+thread 0 node 74 malloc node 74
+thread 0 node 74 malloc parent 75
+thread 0 node = 76
+thread 0 node 76 malloc node 76
+thread 0 node 76 malloc parent 79
+thread 0 node = 77
+thread 0 node 77 malloc node 77
+thread 0 node 77 malloc parent 78
+thread 0 node = 82
+thread 0 node 82 malloc node 82
+thread 0 node 82 malloc parent 84
+thread 0 node = 83
+thread 0 node 83 malloc node 83
+thread 0 node = 85
+thread 0 node 85 malloc node 85
+thread 0 node 85 malloc parent 86
+thread 0 node = 91
+thread 0 node 91 malloc node 91
+thread 0 node 91 malloc parent 93
+thread 0 node = 92
+thread 0 node 92 malloc node 92
+thread 0 node = 94
+thread 0 node 94 malloc node 94
+thread 0 node 94 malloc parent 101
+thread 0 node = 95
+thread 0 node 95 malloc node 95
+thread 0 node 95 malloc parent 100
+thread 0 node = 96
+thread 0 node 96 malloc node 96
+thread 0 node 96 malloc parent 98
+thread 0 node = 97
+thread 0 node 97 malloc node 97
+thread 0 node = 102
+thread 0 node 102 malloc node 102
+thread 0 node 102 malloc parent 118
+thread 0 node = 103
+thread 0 node 103 malloc node 103
+thread 0 node = 104
+thread 0 node 104 malloc node 104
+thread 0 node 104 malloc parent 106
+thread 0 node = 105
+thread 0 node 105 malloc node 105
+thread 0 node = 107
+thread 0 node 107 malloc node 107
+thread 0 node 107 malloc parent 108
+thread 0 node = 110
+thread 0 node 110 malloc node 110
+thread 0 node 110 malloc parent 111
+thread 0 node = 114
+thread 0 node 114 malloc node 114
+thread 0 node 114 malloc parent 116
+thread 0 node = 115
+thread 0 node 115 malloc node 115
+thread 0 node = 120
+thread 0 node 120 malloc node 120
+thread 0 node 120 malloc parent 122
+thread 0 node = 121
+thread 0 node 121 malloc node 121
+thread 0 node = 123
+thread 0 node 123 malloc node 123
+thread 0 node 123 malloc parent 126
+thread 0 node = 124
+thread 0 node 124 malloc node 124
+thread 0 node 124 malloc parent 125
+thread 0 node = 127
+thread 0 node 127 malloc node 127
+thread 0 node 127 malloc parent 128
+thread 0 node = 129
+thread 0 node 129 malloc node 129
+thread 0 node 129 malloc parent 132
+thread 0 node = 130
+thread 0 node 130 malloc node 130
+thread 0 node 130 malloc parent 131
+thread 0 node = 135
+thread 0 node 135 malloc node 135
+thread 0 node = 136
+thread 0 node 136 malloc node 136
+thread 0 node = 137
+thread 0 node 137 malloc node 137
+thread 0 node = 139
+thread 0 node 139 malloc node 139
+thread 0 node 139 malloc parent 144
+thread 0 node = 140
+thread 0 node 140 malloc node 140
+thread 0 node = 142
+thread 0 node 142 malloc node 142
+thread 0 node 142 malloc parent 143
+thread 0 node = 145
+thread 0 node 145 malloc node 145
+thread 0 node 145 malloc parent 152
+thread 0 node = 146
+thread 0 node 146 malloc node 146
+thread 0 node 146 malloc parent 147
+thread 0 node = 148
+thread 0 node 148 malloc node 148
+thread 0 node = 4
+thread 0 node = 6
+thread 0 node = 12
+thread 0 node 12 malloc parent 90
+thread 0 node = 60
+thread 0 node 60 malloc parent 61
+thread 0 node = 17
+thread 0 node 17 malloc parent 141
+thread 0 node = 23
+thread 0 node 23 malloc parent 89
+thread 0 node = 26
+thread 0 node = 28
+thread 0 node = 31
+thread 0 node 31 malloc parent 159
+thread 0 node = 35
+thread 0 node = 38
+thread 0 node 38 malloc parent 56
+thread 0 node = 42
+thread 0 node = 46
+thread 0 node 46 malloc parent 55
+thread 0 node = 51
+thread 0 node 51 malloc parent 52
+thread 0 node = 59
+thread 0 node 59 malloc parent 67
+thread 0 node = 64
+thread 0 node = 72
+thread 0 node = 78
+thread 0 node = 84
+thread 0 node 84 malloc parent 88
+thread 0 node = 93
+thread 0 node = 98
+thread 0 node 98 malloc parent 99
+thread 0 node = 106
+thread 0 node = 108
+thread 0 node 108 malloc parent 109
+thread 0 node = 111
+thread 0 node 111 malloc parent 112
+thread 0 node = 116
+thread 0 node 116 malloc parent 117
+thread 0 node = 122
+thread 0 node 122 malloc parent 134
+thread 0 node = 125
+thread 0 node = 128
+thread 0 node = 131
+thread 0 node = 138
+thread 0 node 138 malloc parent 154
+thread 0 node = 147
+thread 0 node = 149
+thread 0 node 149 malloc parent 150
+thread 0 node = 75
+thread 0 node 75 malloc parent 80
+thread 0 node = 86
+thread 0 node = 61
+thread 0 node 61 malloc parent 66
+thread 0 node = 141
+thread 0 node = 113
+thread 0 node = 43
+thread 0 node = 52
+thread 0 node = 65
+thread 0 node = 73
+thread 0 node = 79
+thread 0 node = 99
+thread 0 node = 109
+thread 0 node = 126
+thread 0 node 126 malloc parent 133
+thread 0 node = 132
+thread 0 node = 150
+thread 0 node 150 malloc parent 151
+thread 0 node = 87
+thread 0 node = 143
+thread 0 node = 44
+thread 0 node = 53
+thread 0 node = 66
+thread 0 node = 80
+thread 0 node 80 malloc parent 81
+thread 0 node = 100
+thread 0 node = 112
+thread 0 node = 133
+thread 0 node = 151
+thread 0 node = 88
+thread 0 node = 144
+thread 0 node 144 malloc parent 153
+thread 0 node = 54
+thread 0 node = 67
+thread 0 node = 101
+thread 0 node 101 malloc parent 119
+thread 0 node = 117
+thread 0 node = 134
+thread 0 node 134 malloc parent 155
+thread 0 node = 152
+thread 0 node = 89
+thread 0 node = 55
+thread 0 node = 81
+thread 0 node 81 malloc parent 158
+thread 0 node = 118
+thread 0 node = 153
+thread 0 node = 90
+thread 0 node 90 malloc parent 157
+thread 0 node = 56
+thread 0 node = 119
+thread 0 node 119 malloc parent 156
+thread 0 node = 154
+thread 0 node = 155
+thread 0 node = 156
+thread 0 node = 157
+thread 0 node = 158
+thread 0 node = 159
+thread 0 node 159 malloc parent 160
+thread 0 node = 160
+thread 0 solve node = 160
+thread 0 solve node = 159
+thread 0 solve node = 158
+thread 0 solve node = 56
+thread 0 solve node = 35
+thread 0 solve node = 31
+thread 0 solve node = 157
+thread 0 solve node = 81
+thread 0 solve node = 55
+thread 0 solve node = 44
+thread 0 solve node = 38
+thread 0 solve node = 34
+thread 0 solve node = 33
+thread 0 solve node = 32
+thread 0 solve node = 30
+thread 0 solve node = 29
+thread 0 solve node = 156
+thread 0 solve node = 90
+thread 0 solve node = 80
+thread 0 solve node = 67
+thread 0 solve node = 54
+thread 0 solve node = 46
+thread 0 solve node = 43
+thread 0 solve node = 39
+thread 0 solve node = 37
+thread 0 solve node = 36
+thread 0 solve node = 155
+thread 0 solve node = 119
+thread 0 solve node = 89
+thread 0 solve node = 12
+thread 0 solve node = 79
+thread 0 solve node = 75
+thread 0 solve node = 73
+thread 0 solve node = 66
+thread 0 solve node = 59
+thread 0 solve node = 53
+thread 0 solve node = 48
+thread 0 solve node = 47
+thread 0 solve node = 45
+thread 0 solve node = 42
+thread 0 solve node = 40
+thread 0 solve node = 154
+thread 0 solve node = 134
+thread 0 solve node = 118
+thread 0 solve node = 101
+thread 0 solve node = 88
+thread 0 solve node = 23
+thread 0 solve node = 11
+thread 0 solve node = 10
+thread 0 solve node = 9
+thread 0 solve node = 8
+thread 0 solve node = 78
+thread 0 solve node = 76
+thread 0 solve node = 74
+thread 0 solve node = 4
+thread 0 solve node = 72
+thread 0 solve node = 69
+thread 0 solve node = 68
+thread 0 solve node = 65
+thread 0 solve node = 61
+thread 0 solve node = 58
+thread 0 solve node = 57
+thread 0 solve node = 52
+thread 0 solve node = 49
+thread 0 solve node = 41
+thread 0 solve node = 153
+thread 0 solve node = 138
+thread 0 solve node = 133
+thread 0 solve node = 122
+thread 0 solve node = 117
+thread 0 solve node = 106
+thread 0 solve node = 103
+thread 0 solve node = 102
+thread 0 solve node = 100
+thread 0 solve node = 94
+thread 0 solve node = 93
+thread 0 solve node = 87
+thread 0 solve node = 84
+thread 0 solve node = 22
+thread 0 solve node = 21
+thread 0 solve node = 20
+thread 0 solve node = 19
+thread 0 solve node = 77
+thread 0 solve node = 2
+thread 0 solve node = 71
+thread 0 solve node = 70
+thread 0 solve node = 64
+thread 0 solve node = 62
+thread 0 solve node = 15
+thread 0 solve node = 60
+thread 0 solve node = 51
+thread 0 solve node = 152
+thread 0 solve node = 144
+thread 0 solve node = 137
+thread 0 solve node = 136
+thread 0 solve node = 135
+thread 0 solve node = 18
+thread 0 solve node = 132
+thread 0 solve node = 126
+thread 0 solve node = 121
+thread 0 solve node = 120
+thread 0 solve node = 116
+thread 0 solve node = 113
+thread 0 solve node = 112
+thread 0 solve node = 105
+thread 0 solve node = 104
+thread 0 solve node = 99
+thread 0 solve node = 95
+thread 0 solve node = 92
+thread 0 solve node = 91
+thread 0 solve node = 86
+thread 0 solve node = 7
+thread 0 solve node = 83
+thread 0 solve node = 82
+thread 0 solve node = 63
+thread 0 solve node = 14
+thread 0 solve node = 50
+thread 0 solve node = 151
+thread 0 solve node = 147
+thread 0 solve node = 145
+thread 0 solve node = 143
+thread 0 solve node = 140
+thread 0 solve node = 139
+thread 0 solve node = 131
+thread 0 solve node = 129
+thread 0 solve node = 128
+thread 0 solve node = 125
+thread 0 solve node = 123
+thread 0 solve node = 115
+thread 0 solve node = 114
+thread 0 solve node = 28
+thread 0 solve node = 26
+thread 0 solve node = 24
+thread 0 solve node = 111
+thread 0 solve node = 109
+thread 0 solve node = 98
+thread 0 solve node = 85
+thread 0 solve node = 6
+thread 0 solve node = 150
+thread 0 solve node = 146
+thread 0 solve node = 142
+thread 0 solve node = 141
+thread 0 solve node = 130
+thread 0 solve node = 127
+thread 0 solve node = 124
+thread 0 solve node = 27
+thread 0 solve node = 25
+thread 0 solve node = 110
+thread 0 solve node = 108
+thread 0 solve node = 97
+thread 0 solve node = 96
+thread 0 solve node = 5
+thread 0 solve node = 149
+thread 0 solve node = 17
+thread 0 solve node = 107
+thread 0 solve node = 148
+thread 0 solve node = 0
+thread 0 solve node = 16
+step = 903
+here0
+active node size: 161
+num children: 
+0 0 0 0 1 0 2 0 0 0 1 2 0 0 0 1 0 1 0 0 0 2 0 0 2 0 0 1 1 2 0 1 0 0 2 0 0 1 1 0 1 0 2 3 3 0 0 2 0 0 1 1 2 2 0 0 1 2 0 0 2 2 2 2 2 2 1 0 0 1 2 0 0 0 0 5 3 0 0 2 0 1 0 0 0 0 2 1 2 3 2 0 0 0 0 4 0 0 0 0 2 3 3 2 0 0 2 0 0 1 2 2 0 0 0 0 2 0 0 1 2 0 0 2 0 0 1 3 2 4 2 2 0 1 2 2 0 0 0 0 0 3 3 0 0 3 0 1 0 2 1 3 2 2 2 2 2 2 2 4 1 
+thread 0 node = 0
+thread 0 node 0 malloc node 0
+thread 0 node 0 malloc parent 6
+thread 0 node = 1
+thread 0 node 1 malloc node 1
+thread 0 node 1 malloc parent 149
+thread 0 node = 2
+thread 0 node 2 malloc node 2
+thread 0 node 2 malloc parent 65
+thread 0 node = 3
+thread 0 node 3 malloc node 3
+thread 0 node 3 malloc parent 4
+thread 0 node = 5
+thread 0 node 5 malloc node 5
+thread 0 node = 7
+thread 0 node 7 malloc node 7
+thread 0 node 7 malloc parent 145
+thread 0 node = 8
+thread 0 node 8 malloc node 8
+thread 0 node 8 malloc parent 11
+thread 0 node = 9
+thread 0 node 9 malloc node 9
+thread 0 node 9 malloc parent 10
+thread 0 node = 12
+thread 0 node 12 malloc node 12
+thread 0 node = 13
+thread 0 node 13 malloc node 13
+thread 0 node 13 malloc parent 131
+thread 0 node = 14
+thread 0 node 14 malloc node 14
+thread 0 node = 16
+thread 0 node 16 malloc node 16
+thread 0 node 16 malloc parent 17
+thread 0 node = 18
+thread 0 node 18 malloc node 18
+thread 0 node 18 malloc parent 147
+thread 0 node = 19
+thread 0 node 19 malloc node 19
+thread 0 node 19 malloc parent 21
+thread 0 node = 20
+thread 0 node 20 malloc node 20
+thread 0 node = 22
+thread 0 node 22 malloc node 22
+thread 0 node 22 malloc parent 24
+thread 0 node = 23
+thread 0 node 23 malloc node 23
+thread 0 node = 25
+thread 0 node 25 malloc node 25
+thread 0 node 25 malloc parent 29
+thread 0 node = 26
+thread 0 node 26 malloc node 26
+thread 0 node 26 malloc parent 27
+thread 0 node = 30
+thread 0 node 30 malloc node 30
+thread 0 node 30 malloc parent 31
+thread 0 node = 32
+thread 0 node 32 malloc node 32
+thread 0 node 32 malloc parent 34
+thread 0 node = 33
+thread 0 node 33 malloc node 33
+thread 0 node = 35
+thread 0 node 35 malloc node 35
+thread 0 node 35 malloc parent 43
+thread 0 node = 36
+thread 0 node 36 malloc node 36
+thread 0 node 36 malloc parent 37
+thread 0 node = 39
+thread 0 node 39 malloc node 39
+thread 0 node 39 malloc parent 40
+thread 0 node = 41
+thread 0 node 41 malloc node 41
+thread 0 node 41 malloc parent 42
+thread 0 node = 45
+thread 0 node 45 malloc node 45
+thread 0 node 45 malloc parent 47
+thread 0 node = 46
+thread 0 node 46 malloc node 46
+thread 0 node = 48
+thread 0 node 48 malloc node 48
+thread 0 node 48 malloc parent 52
+thread 0 node = 49
+thread 0 node 49 malloc node 49
+thread 0 node 49 malloc parent 50
+thread 0 node = 54
+thread 0 node 54 malloc node 54
+thread 0 node 54 malloc parent 57
+thread 0 node = 55
+thread 0 node 55 malloc node 55
+thread 0 node 55 malloc parent 56
+thread 0 node = 58
+thread 0 node 58 malloc node 58
+thread 0 node 58 malloc parent 61
+thread 0 node = 59
+thread 0 node 59 malloc node 59
+thread 0 node 59 malloc parent 60
+thread 0 node = 67
+thread 0 node 67 malloc node 67
+thread 0 node 67 malloc parent 70
+thread 0 node = 68
+thread 0 node 68 malloc node 68
+thread 0 node 68 malloc parent 69
+thread 0 node = 71
+thread 0 node 71 malloc node 71
+thread 0 node 71 malloc parent 75
+thread 0 node = 72
+thread 0 node 72 malloc node 72
+thread 0 node = 73
+thread 0 node 73 malloc node 73
+thread 0 node = 74
+thread 0 node 74 malloc node 74
+thread 0 node = 77
+thread 0 node 77 malloc node 77
+thread 0 node 77 malloc parent 79
+thread 0 node = 78
+thread 0 node 78 malloc node 78
+thread 0 node = 80
+thread 0 node 80 malloc node 80
+thread 0 node 80 malloc parent 81
+thread 0 node = 82
+thread 0 node 82 malloc node 82
+thread 0 node 82 malloc parent 89
+thread 0 node = 83
+thread 0 node 83 malloc node 83
+thread 0 node 83 malloc parent 88
+thread 0 node = 84
+thread 0 node 84 malloc node 84
+thread 0 node 84 malloc parent 86
+thread 0 node = 85
+thread 0 node 85 malloc node 85
+thread 0 node = 91
+thread 0 node 91 malloc node 91
+thread 0 node 91 malloc parent 95
+thread 0 node = 92
+thread 0 node 92 malloc node 92
+thread 0 node = 93
+thread 0 node 93 malloc node 93
+thread 0 node = 94
+thread 0 node 94 malloc node 94
+thread 0 node = 96
+thread 0 node 96 malloc node 96
+thread 0 node 96 malloc parent 101
+thread 0 node = 97
+thread 0 node 97 malloc node 97
+thread 0 node = 98
+thread 0 node 98 malloc node 98
+thread 0 node 98 malloc parent 100
+thread 0 node = 99
+thread 0 node 99 malloc node 99
+thread 0 node = 104
+thread 0 node 104 malloc node 104
+thread 0 node 104 malloc parent 106
+thread 0 node = 105
+thread 0 node 105 malloc node 105
+thread 0 node = 107
+thread 0 node 107 malloc node 107
+thread 0 node 107 malloc parent 110
+thread 0 node = 108
+thread 0 node 108 malloc node 108
+thread 0 node 108 malloc parent 109
+thread 0 node = 112
+thread 0 node 112 malloc node 112
+thread 0 node 112 malloc parent 129
+thread 0 node = 113
+thread 0 node 113 malloc node 113
+thread 0 node = 114
+thread 0 node 114 malloc node 114
+thread 0 node 114 malloc parent 116
+thread 0 node = 115
+thread 0 node 115 malloc node 115
+thread 0 node = 117
+thread 0 node 117 malloc node 117
+thread 0 node 117 malloc parent 120
+thread 0 node = 118
+thread 0 node 118 malloc node 118
+thread 0 node 118 malloc parent 119
+thread 0 node = 121
+thread 0 node 121 malloc node 121
+thread 0 node 121 malloc parent 123
+thread 0 node = 122
+thread 0 node 122 malloc node 122
+thread 0 node = 124
+thread 0 node 124 malloc node 124
+thread 0 node 124 malloc parent 127
+thread 0 node = 125
+thread 0 node 125 malloc node 125
+thread 0 node 125 malloc parent 126
+thread 0 node = 132
+thread 0 node 132 malloc node 132
+thread 0 node 132 malloc parent 134
+thread 0 node = 136
+thread 0 node 136 malloc node 136
+thread 0 node 136 malloc parent 142
+thread 0 node = 137
+thread 0 node 137 malloc node 137
+thread 0 node = 138
+thread 0 node 138 malloc node 138
+thread 0 node 138 malloc parent 141
+thread 0 node = 139
+thread 0 node 139 malloc node 139
+thread 0 node = 140
+thread 0 node 140 malloc node 140
+thread 0 node = 143
+thread 0 node 143 malloc node 143
+thread 0 node = 144
+thread 0 node 144 malloc node 144
+thread 0 node = 146
+thread 0 node 146 malloc node 146
+thread 0 node 146 malloc parent 151
+thread 0 node = 148
+thread 0 node 148 malloc node 148
+thread 0 node = 4
+thread 0 node 4 malloc parent 15
+thread 0 node = 6
+thread 0 node = 10
+thread 0 node = 65
+thread 0 node 65 malloc parent 66
+thread 0 node = 131
+thread 0 node 131 malloc parent 135
+thread 0 node = 17
+thread 0 node 17 malloc parent 133
+thread 0 node = 147
+thread 0 node = 21
+thread 0 node 21 malloc parent 159
+thread 0 node = 24
+thread 0 node = 27
+thread 0 node 27 malloc parent 28
+thread 0 node = 31
+thread 0 node 31 malloc parent 44
+thread 0 node = 34
+thread 0 node = 37
+thread 0 node 37 malloc parent 38
+thread 0 node = 40
+thread 0 node = 47
+thread 0 node 47 malloc parent 53
+thread 0 node = 50
+thread 0 node 50 malloc parent 51
+thread 0 node = 56
+thread 0 node = 69
+thread 0 node = 79
+thread 0 node 79 malloc parent 90
+thread 0 node = 81
+thread 0 node = 86
+thread 0 node 86 malloc parent 87
+thread 0 node = 95
+thread 0 node 95 malloc parent 102
+thread 0 node = 100
+thread 0 node = 106
+thread 0 node 106 malloc parent 111
+thread 0 node = 109
+thread 0 node = 116
+thread 0 node = 119
+thread 0 node = 123
+thread 0 node = 126
+thread 0 node = 141
+thread 0 node = 145
+thread 0 node 145 malloc parent 152
+thread 0 node = 149
+thread 0 node 149 malloc parent 150
+thread 0 node = 15
+thread 0 node = 60
+thread 0 node = 11
+thread 0 node 11 malloc parent 62
+thread 0 node = 66
+thread 0 node 66 malloc parent 76
+thread 0 node = 133
+thread 0 node = 28
+thread 0 node = 38
+thread 0 node = 42
+thread 0 node = 51
+thread 0 node = 57
+thread 0 node 57 malloc parent 63
+thread 0 node = 70
+thread 0 node = 87
+thread 0 node = 101
+thread 0 node = 110
+thread 0 node = 120
+thread 0 node 120 malloc parent 128
+thread 0 node = 127
+thread 0 node = 142
+thread 0 node 142 malloc parent 153
+thread 0 node = 150
+thread 0 node = 75
+thread 0 node = 61
+thread 0 node = 134
+thread 0 node = 29
+thread 0 node = 43
+thread 0 node = 52
+thread 0 node = 88
+thread 0 node = 111
+thread 0 node 111 malloc parent 130
+thread 0 node = 128
+thread 0 node = 151
+thread 0 node = 76
+thread 0 node 76 malloc parent 103
+thread 0 node = 62
+thread 0 node = 135
+thread 0 node 135 malloc parent 154
+thread 0 node = 44
+thread 0 node 44 malloc parent 158
+thread 0 node = 53
+thread 0 node 53 malloc parent 64
+thread 0 node = 89
+thread 0 node = 129
+thread 0 node = 152
+thread 0 node = 63
+thread 0 node = 90
+thread 0 node = 130
+thread 0 node 130 malloc parent 155
+thread 0 node = 153
+thread 0 node = 64
+thread 0 node 64 malloc parent 157
+thread 0 node = 102
+thread 0 node = 154
+thread 0 node = 103
+thread 0 node 103 malloc parent 156
+thread 0 node = 155
+thread 0 node = 156
+thread 0 node = 157
+thread 0 node = 158
+thread 0 node = 159
+thread 0 node 159 malloc parent 160
+thread 0 node = 160
+thread 0 solve node = 160
+thread 0 solve node = 159
+thread 0 solve node = 158
+thread 0 solve node = 29
+thread 0 solve node = 24
+thread 0 solve node = 21
+thread 0 solve node = 157
+thread 0 solve node = 44
+thread 0 solve node = 28
+thread 0 solve node = 25
+thread 0 solve node = 23
+thread 0 solve node = 22
+thread 0 solve node = 20
+thread 0 solve node = 19
+thread 0 solve node = 156
+thread 0 solve node = 64
+thread 0 solve node = 43
+thread 0 solve node = 34
+thread 0 solve node = 31
+thread 0 solve node = 27
+thread 0 solve node = 155
+thread 0 solve node = 103
+thread 0 solve node = 63
+thread 0 solve node = 53
+thread 0 solve node = 42
+thread 0 solve node = 38
+thread 0 solve node = 35
+thread 0 solve node = 33
+thread 0 solve node = 32
+thread 0 solve node = 30
+thread 0 solve node = 26
+thread 0 solve node = 154
+thread 0 solve node = 130
+thread 0 solve node = 102
+thread 0 solve node = 76
+thread 0 solve node = 62
+thread 0 solve node = 57
+thread 0 solve node = 52
+thread 0 solve node = 47
+thread 0 solve node = 41
+thread 0 solve node = 40
+thread 0 solve node = 37
+thread 0 solve node = 153
+thread 0 solve node = 135
+thread 0 solve node = 129
+thread 0 solve node = 111
+thread 0 solve node = 101
+thread 0 solve node = 95
+thread 0 solve node = 90
+thread 0 solve node = 75
+thread 0 solve node = 70
+thread 0 solve node = 66
+thread 0 solve node = 61
+thread 0 solve node = 11
+thread 0 solve node = 56
+thread 0 solve node = 54
+thread 0 solve node = 51
+thread 0 solve node = 48
+thread 0 solve node = 46
+thread 0 solve node = 45
+thread 0 solve node = 39
+thread 0 solve node = 36
+thread 0 solve node = 152
+thread 0 solve node = 142
+thread 0 solve node = 134
+thread 0 solve node = 131
+thread 0 solve node = 128
+thread 0 solve node = 116
+thread 0 solve node = 113
+thread 0 solve node = 112
+thread 0 solve node = 110
+thread 0 solve node = 106
+thread 0 solve node = 100
+thread 0 solve node = 97
+thread 0 solve node = 96
+thread 0 solve node = 94
+thread 0 solve node = 93
+thread 0 solve node = 92
+thread 0 solve node = 91
+thread 0 solve node = 89
+thread 0 solve node = 79
+thread 0 solve node = 74
+thread 0 solve node = 73
+thread 0 solve node = 72
+thread 0 solve node = 71
+thread 0 solve node = 15
+thread 0 solve node = 69
+thread 0 solve node = 67
+thread 0 solve node = 65
+thread 0 solve node = 60
+thread 0 solve node = 58
+thread 0 solve node = 10
+thread 0 solve node = 8
+thread 0 solve node = 55
+thread 0 solve node = 50
+thread 0 solve node = 151
+thread 0 solve node = 145
+thread 0 solve node = 141
+thread 0 solve node = 137
+thread 0 solve node = 136
+thread 0 solve node = 133
+thread 0 solve node = 132
+thread 0 solve node = 14
+thread 0 solve node = 13
+thread 0 solve node = 127
+thread 0 solve node = 120
+thread 0 solve node = 115
+thread 0 solve node = 114
+thread 0 solve node = 109
+thread 0 solve node = 107
+thread 0 solve node = 105
+thread 0 solve node = 104
+thread 0 solve node = 99
+thread 0 solve node = 98
+thread 0 solve node = 88
+thread 0 solve node = 82
+thread 0 solve node = 81
+thread 0 solve node = 78
+thread 0 solve node = 77
+thread 0 solve node = 4
+thread 0 solve node = 68
+thread 0 solve node = 12
+thread 0 solve node = 2
+thread 0 solve node = 59
+thread 0 solve node = 6
+thread 0 solve node = 9
+thread 0 solve node = 49
+thread 0 solve node = 150
+thread 0 solve node = 147
+thread 0 solve node = 146
+thread 0 solve node = 144
+thread 0 solve node = 143
+thread 0 solve node = 7
+thread 0 solve node = 140
+thread 0 solve node = 139
+thread 0 solve node = 138
+thread 0 solve node = 17
+thread 0 solve node = 126
+thread 0 solve node = 124
+thread 0 solve node = 123
+thread 0 solve node = 119
+thread 0 solve node = 117
+thread 0 solve node = 108
+thread 0 solve node = 87
+thread 0 solve node = 83
+thread 0 solve node = 80
+thread 0 solve node = 3
+thread 0 solve node = 5
+thread 0 solve node = 0
+thread 0 solve node = 149
+thread 0 solve node = 18
+thread 0 solve node = 16
+thread 0 solve node = 125
+thread 0 solve node = 122
+thread 0 solve node = 121
+thread 0 solve node = 118
+thread 0 solve node = 86
+thread 0 solve node = 148
+thread 0 solve node = 1
+thread 0 solve node = 85
+thread 0 solve node = 84
+step = 904
+here0
+active node size: 159
+num children: 
+0 0 0 0 0 0 0 0 1 2 0 0 0 1 0 0 0 1 1 0 1 0 1 0 1 0 0 2 0 0 2 2 0 0 2 0 0 0 3 2 0 1 1 0 1 2 3 0 2 0 1 2 2 2 2 2 0 0 2 0 3 2 0 0 0 0 1 2 1 2 2 0 0 2 0 0 0 3 2 2 2 0 0 2 0 0 2 0 0 1 0 1 2 2 0 0 0 0 2 4 3 0 0 2 0 0 1 2 2 0 0 2 0 0 1 0 1 2 2 2 2 0 2 2 0 0 2 1 3 3 2 0 1 0 0 2 1 2 0 0 0 0 0 3 3 0 0 1 1 2 0 1 0 1 2 3 3 2 2 2 3 1 
+thread 0 node = 1
+thread 0 node 1 malloc node 1
+thread 0 node 1 malloc parent 126
+thread 0 node = 2
+thread 0 node 2 malloc node 2
+thread 0 node 2 malloc parent 50
+thread 0 node = 3
+thread 0 node 3 malloc node 3
+thread 0 node 3 malloc parent 41
+thread 0 node = 6
+thread 0 node 6 malloc node 6
+thread 0 node 6 malloc parent 9
+thread 0 node = 7
+thread 0 node 7 malloc node 7
+thread 0 node 7 malloc parent 8
+thread 0 node = 10
+thread 0 node 10 malloc node 10
+thread 0 node 10 malloc parent 42
+thread 0 node = 11
+thread 0 node 11 malloc node 11
+thread 0 node 11 malloc parent 122
+thread 0 node = 12
+thread 0 node 12 malloc node 12
+thread 0 node 12 malloc parent 13
+thread 0 node = 14
+thread 0 node 14 malloc node 14
+thread 0 node 14 malloc parent 24
+thread 0 node = 15
+thread 0 node 15 malloc node 15
+thread 0 node 15 malloc parent 27
+thread 0 node = 16
+thread 0 node 16 malloc node 16
+thread 0 node 16 malloc parent 17
+thread 0 node = 19
+thread 0 node 19 malloc node 19
+thread 0 node 19 malloc parent 20
+thread 0 node = 21
+thread 0 node 21 malloc node 21
+thread 0 node 21 malloc parent 137
+thread 0 node = 23
+thread 0 node 23 malloc node 23
+thread 0 node 23 malloc parent 129
+thread 0 node = 25
+thread 0 node 25 malloc node 25
+thread 0 node = 26
+thread 0 node 26 malloc node 26
+thread 0 node = 28
+thread 0 node 28 malloc node 28
+thread 0 node 28 malloc parent 30
+thread 0 node = 29
+thread 0 node 29 malloc node 29
+thread 0 node = 32
+thread 0 node 32 malloc node 32
+thread 0 node 32 malloc parent 34
+thread 0 node = 33
+thread 0 node 33 malloc node 33
+thread 0 node = 35
+thread 0 node 35 malloc node 35
+thread 0 node 35 malloc parent 38
+thread 0 node = 36
+thread 0 node 36 malloc node 36
+thread 0 node = 37
+thread 0 node 37 malloc node 37
+thread 0 node = 40
+thread 0 node 40 malloc node 40
+thread 0 node 40 malloc parent 46
+thread 0 node = 43
+thread 0 node 43 malloc node 43
+thread 0 node 43 malloc parent 44
+thread 0 node = 47
+thread 0 node 47 malloc node 47
+thread 0 node 47 malloc parent 48
+thread 0 node = 49
+thread 0 node 49 malloc node 49
+thread 0 node 49 malloc parent 51
+thread 0 node = 56
+thread 0 node 56 malloc node 56
+thread 0 node 56 malloc parent 58
+thread 0 node = 57
+thread 0 node 57 malloc node 57
+thread 0 node = 59
+thread 0 node 59 malloc node 59
+thread 0 node 59 malloc parent 60
+thread 0 node = 62
+thread 0 node 62 malloc node 62
+thread 0 node 62 malloc parent 70
+thread 0 node = 63
+thread 0 node 63 malloc node 63
+thread 0 node 63 malloc parent 69
+thread 0 node = 64
+thread 0 node 64 malloc node 64
+thread 0 node 64 malloc parent 67
+thread 0 node = 65
+thread 0 node 65 malloc node 65
+thread 0 node 65 malloc parent 66
+thread 0 node = 71
+thread 0 node 71 malloc node 71
+thread 0 node 71 malloc parent 73
+thread 0 node = 72
+thread 0 node 72 malloc node 72
+thread 0 node = 74
+thread 0 node 74 malloc node 74
+thread 0 node 74 malloc parent 77
+thread 0 node = 75
+thread 0 node 75 malloc node 75
+thread 0 node = 76
+thread 0 node 76 malloc node 76
+thread 0 node = 81
+thread 0 node 81 malloc node 81
+thread 0 node 81 malloc parent 83
+thread 0 node = 82
+thread 0 node 82 malloc node 82
+thread 0 node = 84
+thread 0 node 84 malloc node 84
+thread 0 node 84 malloc parent 86
+thread 0 node = 85
+thread 0 node 85 malloc node 85
+thread 0 node = 87
+thread 0 node 87 malloc node 87
+thread 0 node 87 malloc parent 93
+thread 0 node = 88
+thread 0 node 88 malloc node 88
+thread 0 node 88 malloc parent 89
+thread 0 node = 90
+thread 0 node 90 malloc node 90
+thread 0 node 90 malloc parent 91
+thread 0 node = 94
+thread 0 node 94 malloc node 94
+thread 0 node 94 malloc parent 99
+thread 0 node = 95
+thread 0 node 95 malloc node 95
+thread 0 node = 96
+thread 0 node 96 malloc node 96
+thread 0 node 96 malloc parent 98
+thread 0 node = 97
+thread 0 node 97 malloc node 97
+thread 0 node = 101
+thread 0 node 101 malloc node 101
+thread 0 node 101 malloc parent 103
+thread 0 node = 102
+thread 0 node 102 malloc node 102
+thread 0 node = 104
+thread 0 node 104 malloc node 104
+thread 0 node 104 malloc parent 107
+thread 0 node = 105
+thread 0 node 105 malloc node 105
+thread 0 node 105 malloc parent 106
+thread 0 node = 109
+thread 0 node 109 malloc node 109
+thread 0 node 109 malloc parent 111
+thread 0 node = 110
+thread 0 node 110 malloc node 110
+thread 0 node = 112
+thread 0 node 112 malloc node 112
+thread 0 node 112 malloc parent 118
+thread 0 node = 113
+thread 0 node 113 malloc node 113
+thread 0 node 113 malloc parent 114
+thread 0 node = 115
+thread 0 node 115 malloc node 115
+thread 0 node 115 malloc parent 116
+thread 0 node = 121
+thread 0 node 121 malloc node 121
+thread 0 node = 124
+thread 0 node 124 malloc node 124
+thread 0 node = 125
+thread 0 node 125 malloc node 125
+thread 0 node 125 malloc parent 128
+thread 0 node = 131
+thread 0 node 131 malloc node 131
+thread 0 node 131 malloc parent 132
+thread 0 node = 133
+thread 0 node 133 malloc node 133
+thread 0 node 133 malloc parent 135
+thread 0 node = 134
+thread 0 node 134 malloc node 134
+thread 0 node = 138
+thread 0 node 138 malloc node 138
+thread 0 node 138 malloc parent 144
+thread 0 node = 139
+thread 0 node 139 malloc node 139
+thread 0 node = 140
+thread 0 node 140 malloc node 140
+thread 0 node 140 malloc parent 143
+thread 0 node = 141
+thread 0 node 141 malloc node 141
+thread 0 node = 142
+thread 0 node 142 malloc node 142
+thread 0 node = 145
+thread 0 node 145 malloc node 145
+thread 0 node 145 malloc parent 149
+thread 0 node = 146
+thread 0 node 146 malloc node 146
+thread 0 node 146 malloc parent 147
+thread 0 node = 150
+thread 0 node 150 malloc node 150
+thread 0 node 150 malloc parent 151
+thread 0 node = 152
+thread 0 node 152 malloc node 152
+thread 0 node 152 malloc parent 153
+thread 0 node = 50
+thread 0 node = 41
+thread 0 node = 8
+thread 0 node = 42
+thread 0 node 42 malloc parent 45
+thread 0 node = 13
+thread 0 node 13 malloc parent 22
+thread 0 node = 24
+thread 0 node = 17
+thread 0 node 17 malloc parent 18
+thread 0 node = 20
+thread 0 node = 126
+thread 0 node 126 malloc parent 127
+thread 0 node = 27
+thread 0 node 27 malloc parent 31
+thread 0 node = 30
+thread 0 node = 34
+thread 0 node 34 malloc parent 39
+thread 0 node = 38
+thread 0 node = 44
+thread 0 node = 58
+thread 0 node 58 malloc parent 61
+thread 0 node = 66
+thread 0 node = 73
+thread 0 node 73 malloc parent 78
+thread 0 node = 77
+thread 0 node = 83
+thread 0 node 83 malloc parent 100
+thread 0 node = 86
+thread 0 node = 89
+thread 0 node 89 malloc parent 92
+thread 0 node = 91
+thread 0 node = 98
+thread 0 node = 103
+thread 0 node 103 malloc parent 108
+thread 0 node = 106
+thread 0 node = 111
+thread 0 node 111 malloc parent 119
+thread 0 node = 114
+thread 0 node 114 malloc parent 117
+thread 0 node = 116
+thread 0 node = 122
+thread 0 node 122 malloc parent 123
+thread 0 node = 132
+thread 0 node 132 malloc parent 156
+thread 0 node = 135
+thread 0 node 135 malloc parent 136
+thread 0 node = 143
+thread 0 node = 147
+thread 0 node 147 malloc parent 148
+thread 0 node = 151
+thread 0 node 151 malloc parent 154
+thread 0 node = 153
+thread 0 node = 51
+thread 0 node 51 malloc parent 52
+thread 0 node = 9
+thread 0 node = 22
+thread 0 node = 18
+thread 0 node = 127
+thread 0 node = 31
+thread 0 node 31 malloc parent 55
+thread 0 node = 39
+thread 0 node 39 malloc parent 54
+thread 0 node = 45
+thread 0 node = 67
+thread 0 node 67 malloc parent 68
+thread 0 node = 78
+thread 0 node 78 malloc parent 79
+thread 0 node = 92
+thread 0 node = 107
+thread 0 node = 117
+thread 0 node = 136
+thread 0 node = 144
+thread 0 node 144 malloc parent 155
+thread 0 node = 148
+thread 0 node = 154
+thread 0 node = 60
+thread 0 node = 123
+thread 0 node 123 malloc parent 130
+thread 0 node = 48
+thread 0 node = 128
+thread 0 node = 46
+thread 0 node 46 malloc parent 53
+thread 0 node = 68
+thread 0 node = 93
+thread 0 node = 108
+thread 0 node 108 malloc parent 120
+thread 0 node = 118
+thread 0 node = 137
+thread 0 node = 149
+thread 0 node = 61
+thread 0 node 61 malloc parent 80
+thread 0 node = 52
+thread 0 node = 129
+thread 0 node = 69
+thread 0 node = 99
+thread 0 node = 119
+thread 0 node = 155
+thread 0 node = 53
+thread 0 node = 130
+thread 0 node 130 malloc parent 157
+thread 0 node = 70
+thread 0 node = 100
+thread 0 node 100 malloc parent 159
+thread 0 node = 120
+thread 0 node 120 malloc parent 158
+thread 0 node = 156
+thread 0 node = 54
+thread 0 node = 79
+thread 0 node = 157
+thread 0 node = 55
+thread 0 node 55 malloc parent 160
+thread 0 node = 80
+thread 0 node = 158
+thread 0 node = 159
+thread 0 node = 160
+thread 0 node 160 malloc parent 161
+thread 0 node = 161
+thread 0 solve node = 161
+thread 0 solve node = 160
+thread 0 solve node = 159
+thread 0 solve node = 80
+thread 0 solve node = 55
+thread 0 solve node = 158
+thread 0 solve node = 100
+thread 0 solve node = 79
+thread 0 solve node = 61
+thread 0 solve node = 54
+thread 0 solve node = 31
+thread 0 solve node = 157
+thread 0 solve node = 120
+thread 0 solve node = 99
+thread 0 solve node = 86
+thread 0 solve node = 83
+thread 0 solve node = 78
+thread 0 solve node = 70
+thread 0 solve node = 60
+thread 0 solve node = 58
+thread 0 solve node = 53
+thread 0 solve node = 39
+thread 0 solve node = 30
+thread 0 solve node = 27
+thread 0 solve node = 156
+thread 0 solve node = 130
+thread 0 solve node = 119
+thread 0 solve node = 108
+thread 0 solve node = 98
+thread 0 solve node = 95
+thread 0 solve node = 94
+thread 0 solve node = 93
+thread 0 solve node = 85
+thread 0 solve node = 84
+thread 0 solve node = 82
+thread 0 solve node = 81
+thread 0 solve node = 77
+thread 0 solve node = 73
+thread 0 solve node = 69
+thread 0 solve node = 62
+thread 0 solve node = 59
+thread 0 solve node = 20
+thread 0 solve node = 9
+thread 0 solve node = 57
+thread 0 solve node = 56
+thread 0 solve node = 52
+thread 0 solve node = 46
+thread 0 solve node = 38
+thread 0 solve node = 34
+thread 0 solve node = 29
+thread 0 solve node = 28
+thread 0 solve node = 26
+thread 0 solve node = 15
+thread 0 solve node = 155
+thread 0 solve node = 137
+thread 0 solve node = 132
+thread 0 solve node = 129
+thread 0 solve node = 123
+thread 0 solve node = 118
+thread 0 solve node = 111
+thread 0 solve node = 107
+thread 0 solve node = 103
+thread 0 solve node = 97
+thread 0 solve node = 96
+thread 0 solve node = 92
+thread 0 solve node = 87
+thread 0 solve node = 76
+thread 0 solve node = 75
+thread 0 solve node = 74
+thread 0 solve node = 72
+thread 0 solve node = 71
+thread 0 solve node = 68
+thread 0 solve node = 63
+thread 0 solve node = 19
+thread 0 solve node = 8
+thread 0 solve node = 6
+thread 0 solve node = 51
+thread 0 solve node = 48
+thread 0 solve node = 45
+thread 0 solve node = 41
+thread 0 solve node = 40
+thread 0 solve node = 37
+thread 0 solve node = 36
+thread 0 solve node = 35
+thread 0 solve node = 33
+thread 0 solve node = 32
+thread 0 solve node = 154
+thread 0 solve node = 149
+thread 0 solve node = 144
+thread 0 solve node = 136
+thread 0 solve node = 21
+thread 0 solve node = 131
+thread 0 solve node = 128
+thread 0 solve node = 124
+thread 0 solve node = 23
+thread 0 solve node = 122
+thread 0 solve node = 22
+thread 0 solve node = 117
+thread 0 solve node = 112
+thread 0 solve node = 110
+thread 0 solve node = 109
+thread 0 solve node = 106
+thread 0 solve node = 104
+thread 0 solve node = 102
+thread 0 solve node = 101
+thread 0 solve node = 91
+thread 0 solve node = 89
+thread 0 solve node = 67
+thread 0 solve node = 7
+thread 0 solve node = 50
+thread 0 solve node = 49
+thread 0 solve node = 47
+thread 0 solve node = 18
+thread 0 solve node = 44
+thread 0 solve node = 42
+thread 0 solve node = 3
+thread 0 solve node = 153
+thread 0 solve node = 151
+thread 0 solve node = 148
+thread 0 solve node = 145
+thread 0 solve node = 143
+thread 0 solve node = 139
+thread 0 solve node = 138
+thread 0 solve node = 135
+thread 0 solve node = 127
+thread 0 solve node = 125
+thread 0 solve node = 24
+thread 0 solve node = 121
+thread 0 solve node = 11
+thread 0 solve node = 13
+thread 0 solve node = 116
+thread 0 solve node = 114
+thread 0 solve node = 105
+thread 0 solve node = 90
+thread 0 solve node = 88
+thread 0 solve node = 66
+thread 0 solve node = 64
+thread 0 solve node = 2
+thread 0 solve node = 17
+thread 0 solve node = 43
+thread 0 solve node = 10
+thread 0 solve node = 152
+thread 0 solve node = 150
+thread 0 solve node = 147
+thread 0 solve node = 142
+thread 0 solve node = 141
+thread 0 solve node = 140
+thread 0 solve node = 134
+thread 0 solve node = 133
+thread 0 solve node = 126
+thread 0 solve node = 14
+thread 0 solve node = 12
+thread 0 solve node = 115
+thread 0 solve node = 113
+thread 0 solve node = 65
+thread 0 solve node = 16
+thread 0 solve node = 146
+thread 0 solve node = 25
+thread 0 solve node = 1
+Passed :)

@@ -1,0 +1,33 @@
+cliques
+30
+node 0	AtA: 41688	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 1	AtA: 34740	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 2	AtA: 34740	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 3	AtA: 34740	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 4	AtA: 34740	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 5	AtA: 13124	cholCost: 0	addCost: 1048	backsolveCost: 15540
+node 6	AtA: 34152	cholCost: 0	addCost: 2728	backsolveCost: 16079
+node 7	AtA: 15440	cholCost: 0	addCost: 2728	backsolveCost: 16156
+node 8	AtA: 55584	cholCost: 0	addCost: 1192	backsolveCost: 30193
+node 9	AtA: 44776	cholCost: 0	addCost: 1192	backsolveCost: 47752
+node 10	AtA: 44004	cholCost: 0	addCost: 1000	backsolveCost: 72460
+node 11	AtA: 12352	cholCost: 0	addCost: 1000	backsolveCost: 15463
+node 12	AtA: 12352	cholCost: 0	addCost: 1000	backsolveCost: 15463
+node 13	AtA: 12352	cholCost: 0	addCost: 1000	backsolveCost: 15463
+node 14	AtA: 12352	cholCost: 0	addCost: 1000	backsolveCost: 15463
+node 15	AtA: 12352	cholCost: 0	addCost: 1000	backsolveCost: 15463
+node 16	AtA: 12352	cholCost: 0	addCost: 1000	backsolveCost: 15463
+node 17	AtA: 17756	cholCost: 0	addCost: 1192	backsolveCost: 15694
+node 18	AtA: 29520	cholCost: 31755	addCost: 2200	backsolveCost: 16079
+node 19	AtA: 14852	cholCost: 31755	addCost: 2200	backsolveCost: 16079
+node 20	AtA: 20844	cholCost: 0	addCost: 1048	backsolveCost: 15617
+node 21	AtA: 16396	cholCost: 22021	addCost: 1048	backsolveCost: 15617
+node 22	AtA: 20256	cholCost: 29579	addCost: 1192	backsolveCost: 19922
+node 23	AtA: 20844	cholCost: 2528	addCost: 1048	backsolveCost: 19922
+node 24	AtA: 30292	cholCost: 26264	addCost: 1432	backsolveCost: 15771
+node 25	AtA: 31064	cholCost: 34238	addCost: 1432	backsolveCost: 20100
+node 26	AtA: 19484	cholCost: 26264	addCost: 1432	backsolveCost: 15771
+node 27	AtA: 21800	cholCost: 29579	addCost: 1192	backsolveCost: 19922
+node 28	AtA: 11764	cholCost: 10188	addCost: 1000	backsolveCost: 8372
+node 29	AtA: -1	cholCost: 0	addCost: -1	backsolveCost: 1561
+

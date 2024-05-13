@@ -1,0 +1,6 @@
+cliques
+3
+node 0	AtA: 13124	cholCost: 2084	addCost: 1000	backsolveCost: 15463
+node 1	AtA: 6360	cholCost: 9548	addCost: 1000	backsolveCost: 5243
+node 2	AtA: -1	cholCost: 0	addCost: -1	backsolveCost: 1561
+

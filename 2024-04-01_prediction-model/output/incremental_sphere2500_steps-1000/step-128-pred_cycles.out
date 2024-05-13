@@ -1,0 +1,33 @@
+cliques
+30
+node 0	AtA: 15610	cholCost: 39345	addCost: 1768	backsolveCost: 24018
+node 1	AtA: 11240	cholCost: 30507	addCost: 1768	backsolveCost: 15848
+node 2	AtA: 11240	cholCost: 30507	addCost: 1768	backsolveCost: 15848
+node 3	AtA: 11240	cholCost: 30507	addCost: 1768	backsolveCost: 15848
+node 4	AtA: 11240	cholCost: 30507	addCost: 1768	backsolveCost: 15848
+node 5	AtA: 11240	cholCost: 30507	addCost: 1768	backsolveCost: 15848
+node 6	AtA: 11240	cholCost: 30507	addCost: 1768	backsolveCost: 15848
+node 7	AtA: 11240	cholCost: 30507	addCost: 1768	backsolveCost: 15848
+node 8	AtA: 11240	cholCost: 30507	addCost: 1768	backsolveCost: 15848
+node 9	AtA: 11240	cholCost: 30507	addCost: 1768	backsolveCost: 15848
+node 10	AtA: 17358	cholCost: 59520	addCost: 2200	backsolveCost: 30645
+node 11	AtA: 13862	cholCost: 44004	addCost: 2200	backsolveCost: 24220
+node 12	AtA: 12114	cholCost: 31131	addCost: 2200	backsolveCost: 16002
+node 13	AtA: 13862	cholCost: 44004	addCost: 2200	backsolveCost: 24220
+node 14	AtA: 12114	cholCost: 31131	addCost: 2200	backsolveCost: 16002
+node 15	AtA: 13862	cholCost: 44004	addCost: 2200	backsolveCost: 24220
+node 16	AtA: 12114	cholCost: 31131	addCost: 2200	backsolveCost: 16002
+node 17	AtA: 13862	cholCost: 44004	addCost: 2200	backsolveCost: 24220
+node 18	AtA: 12114	cholCost: 31131	addCost: 2200	backsolveCost: 16002
+node 19	AtA: 13862	cholCost: 44004	addCost: 2200	backsolveCost: 24220
+node 20	AtA: 12114	cholCost: 31131	addCost: 2200	backsolveCost: 16002
+node 21	AtA: 13862	cholCost: 44004	addCost: 2200	backsolveCost: 24220
+node 22	AtA: 12114	cholCost: 31131	addCost: 2200	backsolveCost: 16002
+node 23	AtA: 13862	cholCost: 44004	addCost: 2200	backsolveCost: 24220
+node 24	AtA: 12114	cholCost: 31131	addCost: 2200	backsolveCost: 16002
+node 25	AtA: 13862	cholCost: 44004	addCost: 2200	backsolveCost: 24220
+node 26	AtA: 14736	cholCost: 44004	addCost: 2200	backsolveCost: 24220
+node 27	AtA: 15610	cholCost: 46375	addCost: 1192	backsolveCost: 30080
+node 28	AtA: 6870	cholCost: 16194	addCost: 1000	backsolveCost: 10977
+node 29	AtA: -1	cholCost: 0	addCost: -1	backsolveCost: 1561
+

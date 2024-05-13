@@ -1,0 +1,46 @@
+cliques
+43
+node 0	AtA: 41688	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 1	AtA: 34740	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 2	AtA: 34740	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 3	AtA: 34740	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 4	AtA: 34740	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 5	AtA: 13124	cholCost: 0	addCost: 1048	backsolveCost: 15540
+node 6	AtA: 55584	cholCost: 0	addCost: 1192	backsolveCost: 30193
+node 7	AtA: 44776	cholCost: 0	addCost: 1192	backsolveCost: 47752
+node 8	AtA: 13896	cholCost: 0	addCost: 1048	backsolveCost: 15617
+node 9	AtA: 24704	cholCost: 0	addCost: 1192	backsolveCost: 15617
+node 10	AtA: 21616	cholCost: 0	addCost: 1192	backsolveCost: 15617
+node 11	AtA: 13124	cholCost: 0	addCost: 1048	backsolveCost: 15540
+node 12	AtA: 12352	cholCost: 0	addCost: 1048	backsolveCost: 15540
+node 13	AtA: 33196	cholCost: 0	addCost: 1000	backsolveCost: 40592
+node 14	AtA: 19300	cholCost: 0	addCost: 1048	backsolveCost: 15617
+node 15	AtA: 41688	cholCost: 3280	addCost: 1432	backsolveCost: 20100
+node 16	AtA: 13896	cholCost: 0	addCost: 1048	backsolveCost: 15617
+node 17	AtA: 13124	cholCost: 0	addCost: 1048	backsolveCost: 15540
+node 18	AtA: 44004	cholCost: 3776	addCost: 1432	backsolveCost: 20189
+node 19	AtA: 13124	cholCost: 0	addCost: 1048	backsolveCost: 15540
+node 20	AtA: 41688	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 21	AtA: 32608	cholCost: 0	addCost: 1192	backsolveCost: 30193
+node 22	AtA: 24704	cholCost: 0	addCost: 1192	backsolveCost: 15617
+node 23	AtA: 21616	cholCost: 0	addCost: 1192	backsolveCost: 15617
+node 24	AtA: 15624	cholCost: 0	addCost: 1048	backsolveCost: 15540
+node 25	AtA: 27792	cholCost: 0	addCost: 1432	backsolveCost: 15771
+node 26	AtA: 15624	cholCost: 0	addCost: 1048	backsolveCost: 15540
+node 27	AtA: 26248	cholCost: 0	addCost: 1192	backsolveCost: 15694
+node 28	AtA: 23160	cholCost: 0	addCost: 1432	backsolveCost: 30306
+node 29	AtA: 19484	cholCost: 0	addCost: 1432	backsolveCost: 20100
+node 30	AtA: 27792	cholCost: 0	addCost: 1432	backsolveCost: 15771
+node 31	AtA: 35512	cholCost: 4140	addCost: 2200	backsolveCost: 24321
+node 32	AtA: 62532	cholCost: 3744	addCost: 2200	backsolveCost: 20456
+node 33	AtA: 23932	cholCost: 3584	addCost: 1432	backsolveCost: 15848
+node 34	AtA: 57900	cholCost: 2856	addCost: 1768	backsolveCost: 30419
+node 35	AtA: 54040	cholCost: 7776	addCost: 3352	backsolveCost: 31097
+node 36	AtA: 32424	cholCost: 2828	addCost: 1048	backsolveCost: 47603
+node 37	AtA: 44776	cholCost: 3864	addCost: 1768	backsolveCost: 57172
+node 38	AtA: 44188	cholCost: 78812	addCost: 2728	backsolveCost: 41688
+node 39	AtA: 34924	cholCost: 44484	addCost: 4888	backsolveCost: 16541
+node 40	AtA: 34924	cholCost: 70710	addCost: 4072	backsolveCost: 30046
+node 41	AtA: 47276	cholCost: 81788	addCost: 1000	backsolveCost: 72275
+node 42	AtA: -1	cholCost: 0	addCost: -1	backsolveCost: 1561
+
