@@ -1,0 +1,14 @@
+{params: {dataset: sphere2500, default_num_outer_iter: 1, igo_id: iterative, is_3D: true,
+    iterative: {boundeddiff: {max_norm_bound: 0.9, row_norm_bound: 0.2}, iterative_solver: lsqr,
+      max_iter: 500, preconditioner: selchol, selchol: {min_sel_rows: 0, percent_rows: 0.05,
+        row_selector: highnorm}, tolerance: 1e-6}, lc_lookahead: 5, lc_num_outer_iter: 4,
+    lc_steps: [60, 335, 421, 783, 931, 1170, 1245, 1566, 1658, 1821, 2060, 2284, 2435,
+      2605, 2980, 3060, 3395, 3405, 3750, 3816, 4191, 4330, 4540, 4626, 4947, 5077,
+      5335, 5447, 5665, 5920, 6146, 6350, 6408, 6666, 6846, 7160, 7210, 7460, 7730,
+      7998, 8020, 8343, 8409, 8792, 8880, 9028, 9230, 9417, 9660, 9905], lc_steps_file: /home/ubuntu/slam-experiments/2023-12-10_project-experiments/data/w10000_selected_steps.txt,
+    mode: pgo, output_file: /home/ubuntu/slam-experiments/2024-04-25_iterative_convergence/output/test-sphere.yaml,
+    output_yaml_obj: {}, profile_lc_step: 931, profile_lc_step_only: false, relin_threshold: 0.001,
+    stop_step: 500}, 56: {iter: 7}, 57: {iter: 9}, 58: {iter: 9}, 59: {iter: 9}, 60: {
+    iter: 7}, 331: {iter: 33}, 332: {iter: 25}, 333: {iter: 20}, 334: {iter: 19},
+  335: {iter: 17}, 417: {iter: 9}, 418: {iter: 13}, 419: {iter: 11}, 420: {iter: 10},
+  421: {iter: 10}}
